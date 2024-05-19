@@ -1,4 +1,9 @@
 马来西亚,#genre#
+AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8
+AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption
+AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
 TV3,P2p://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
@@ -10,7 +15,7 @@ Al-Hijrah,P2p://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
 SUN TV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 爱奇艺,P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
 Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
-Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 Astro AOD HD 311,P2p://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
