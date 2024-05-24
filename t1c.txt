@@ -1,8 +1,9 @@
 马来西亚,#genre#
+AEC-1,http://zuozhus.site/live/Smartv.php?id=AEC
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC-5,tvbus://3fq2t7NnxAnW3e8joAyrXM2BYqWH5xfbzJ2hZsGDVGmJdbQWdLbXJ5KwsFooA
-AEC-6,tvbus://3jHN4oKCQ7N5vwjGsZpyhQKz531k1rTCiAgT32T9Ji6xnHUew56LVXWqXSUeL
+AEC-4,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-5,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8
 AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
@@ -16,8 +17,9 @@ Astro Oasis HD,P2p://generationnexxxt.com:19806/ba94a812ece14f4484d550852d736644
 Al-Hijrah,P2p://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
 SUN TV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 爱奇艺,P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
+爱奇艺2,http://zuozhus.site/live/Smartv.php?id=Qiyi
 Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
-
+全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 Astro AOD HD 311,P2p://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
@@ -25,7 +27,7 @@ Astro AOD HD 311,P2p://generationnexxxt.com:19806/676d5767c17749f8950a81ed868138
 TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 Astro欢喜台,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-歡喜臺333-6,tvbus://2oJUxjvokVxUP6vJyCi59652oJmLYSUXd2SKK6iNkWVkDojeZvv7zD1D7Q9sq
+歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee
 KBS World,P2p://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
 TVS,P2p://generationnexxxt.com:19806/18061f7a3a814916bebc76d2363b31e9
 tvN Movies HD,P2p://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7
@@ -201,6 +203,7 @@ EVE,P2p://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
 罪案侦缉频道,P2p://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
 BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 Lifetime,P2p://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
+靖天國際,http://zuozhus.site/live/Smartv.php?id=jingtianintl_twn
 KLT-靖天国际台,P2p://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
 HGTV居家乐活频道,P2p://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
 Love Nature,P2p://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
@@ -208,6 +211,7 @@ Love Nature,P2p://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
 亚洲美食频道,P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
 亚洲旅游台,P2p://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
 EYE TV旅游台,P2p://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e
+EYE TV旅遊台1,http://zuozhus.site/live/Smartv.php?id=eyetvtravel_twn
 好消息2台,P2p://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
 三立综合台,P2p://generationnexxxt.com:19806/792a7263dd7b4c7484512d07f3c21083
 靖天资讯台,P2p://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
