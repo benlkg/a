@@ -4,9 +4,9 @@ AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d																								
 AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8																								
 AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8																								
-AEC-5,p3p://108.181.32.169:16341/64124c2d0006c6eba0d384f41e28720a																								
-AEC-6,p3p://108.181.32.169:16341/64124c700006cf30a0d48aaf01411bf2																								
-AEC-7																								
+AEC-5,http://zuozhus.site/live/Smartv.php?id=AEC																								
+AEC-6,mitv://135.148.104.228:19806/cd1cf3c664a44822898e14d8025f2fc1																								
+AEC-7,mitv://135.148.104.228:19806/42b050d4e8534ad0b1b3ede5b2aab501																								
 AEC-8																								
 AEC-9																								
 AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8																								
@@ -17,8 +17,8 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-4,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-5,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8																								
-歡喜臺333-6,p3p://108.181.32.169:16341/64124caf0002a78fa0d57fb777596e7b																								
-歡喜臺333-7																								
+歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee																								
+歡喜臺333-7,mitv://135.148.104.228:19806/808f3ef554f34e559f91e005ef819803																								
 歡喜臺333-8																								
 歡喜臺333-9																								
 歡喜臺333-10																								
@@ -31,13 +31,13 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 欢笑剧场4K																								
 欢笑剧场4K																								
 																								
-全佳,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8																								
+全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia																								
 全佳,p2p://108.181.32.169:14429/64124c91000ce85ba0d50d273a3f550c																								
-全佳,p3p://108.181.32.169:16341/64124c91000ce85ba0d50d273a3f550c																								
+全佳,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8																								
 全佳																								
 全佳-2,http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8																								
 全佳-2																								
-爱奇艺,P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
+爱奇艺,http://zuozhus.site/live/Smartv.php?id=Qiyi#P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
 爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84																								
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/708.m3u8?WithCaption																								
 爱奇艺-2,http://iptv12k.com:35461/live/test167/12345/13374.m3u8?WithCaption#mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f																								
@@ -78,7 +78,7 @@ TVB 星河,P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 TVB 星河,http://103.45.68.47/gy/gy611/xsj.php?id=tvb-xinghe																								
 TVB 星河,http://r.jdshipin.com/sXuuD																								
 MyTvSuper																								
-千禧经典台																								
+千禧经典台,mitv://135.148.104.228:19806/82237250e487405d87030dd69457ddd8																								
 TVB经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts#http://103.45.68.47/gy/gy611/xsj.php?id=tvb-classic																								
 TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175#mitv://135.148.104.228:19806/69d668a50a2c4d55bc1adfbdf2f29bf7																								
 TV2,https://epg.pw/stream/4f3af015d405bff6ec2961edb41746765c0a38e23bfc44dafaef41c485ed9972.m3u8																								
@@ -87,7 +87,7 @@ TV2,https://live01.gohkh9.eu.org/live.php?id=TV2
 八度空間,mitv://135.148.104.228:19806/2e2b2c26f8e54bbbb79581b30bb9816e																								
 八度空間,mitv://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f																								
 八度空間,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1																								
-八度空間																								
+八度空間,mitv://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d																								
 八度空間-2,mitv://generationnexxxt.com:19806/8796cd8daa694ec8a4dbe9a03d0e5c30																								
 TV8,P2p://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f#http://103.45.68.47/gy/gy611/xsj.php?id=8tv																								
 TV8,https://epg.pw/stream/88043f2fe81ad55b782381fa21fc327eb256463ac274886aff045b43a0d248df.ctv																								
@@ -130,7 +130,7 @@ NHK Japan-2,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/
 CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8#http://198.16.100.90:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?																								
 CCTV-13-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?																								
 CCTV-13-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8																								
-鳳凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192#http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://www.cdtriot.cn:9999/udp/239.93.0.162:2192#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f																								
+鳳凰中文,http://zuozhus.site/live/Smartv.php?id=phoenixtv_hd#http://112.19.171.156:9999/udp/239.93.0.162:2192#http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://www.cdtriot.cn:9999/udp/239.93.0.162:2192#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f																								
 鳳凰資訊,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://hikvision.city:880/fhzx.m3u8#http://61.221.215.25:8800/hls/47/index.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0#http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0																								
 																								
 HK/香港,#genre#																								
@@ -141,7 +141,7 @@ HK/香港,#genre#
 大湾区卫视																								
 																								
 																								
-鳳凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192#http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://www.cdtriot.cn:9999/udp/239.93.0.162:2192#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f																								
+鳳凰中文,http://zuozhus.site/live/Smartv.php?id=phoenixtv_hd#http://112.19.171.156:9999/udp/239.93.0.162:2192#http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://www.cdtriot.cn:9999/udp/239.93.0.162:2192#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f																								
 凤凰中文,http://103.45.68.47/gy/gy611/xsj.php?id=phtv-cn																								
 凤凰中文,p2p://108.181.32.169:14429/6410229e000655dd98612e41401e3e7dcn																								
 																								
@@ -328,7 +328,7 @@ Travel/旅遊,#genre#
 sbtv,https://epg.pw/stream/8912d126333dd67b4dcee543f479ee64edc1a405ececc7b604cd88e690f12d4b.m3u8																								
 HTB北海道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8																								
 靖天國際,http://103.45.68.47/gy/gy611/xsj.php?id=jtgj																								
-靖天國際,http://103.45.68.47/gy/gy611/xsj.php?id=jtgj																								
+靖天國際,http://zuozhus.site/live/Smartv.php?id=jingtianintl_twn																								
 大陸尋奇																								
 BBC Travel																								
 HOY TV																								
@@ -348,7 +348,7 @@ EYETV旅游,P2p://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e#ht
 EYE TV旅遊,mitv://generationnexxxt.com:19806/87f3203d6e0549aca283b920851a335a																								
 EYE TV旅游台-2,http://103.45.68.47/gy/gy611/xsj.php?id=eye-travel																								
 EYE TV旅遊台,p2p://108.181.32.169:14429/642524030003a5b2ea6e2e6f6efc45a1																								
-EYE TV旅遊台,https://z88.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8																								
+EYE TV旅遊台1,http://zuozhus.site/live/Smartv.php?id=eyetvtravel_twn																								
 EYE TV旅遊台-2,P2p://generationnexxxt.com:19806/055ce8e749c1425c87950f93d0bf9bcd																								
 ET Today																								
 民視旅遊台,https://z88.ubtvfans.com/live/rx2/78/b74e51bdd2f933ad4272e33628754a67/index.m3u8#https://epg.pw/stream/257816568cc80afe4f15ea7c55110ee3f323a74ad270f73c68eb0caf5935948d.m3u8																								
@@ -361,7 +361,7 @@ Disvovery Asia-2,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42
 																								
 																								
 緯來日本1,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2#mitv://generationnexxxt.com:19806/f8f4f06d93c14ef995a4ef158883170c																								
-緯來日本2,http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption																								
+緯來日本2,http://zuozhus.site/live/Smartv.php?id=videolandjapan#http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption																								
 緯來日本,http://103.45.68.47/gy/gy611/xsj.php?id=videoland-japan																								
 緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb																								
 																								
@@ -414,7 +414,7 @@ Food-1/美食,#genre#
 非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8																								
 美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0#mitv://generationnexxxt.com:19806/26b516cb871e4984b9cf04166b42dc02#p2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23#https://epg.pw/stream/3d70065a1d32bf3e9c1592d81e2cccc61cf6501b4b0e4339211cbfd46cdf9067.ctv																								
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8#P2p://generationnexxxt.com:19806/60c698afbda7443998a2b9fd5c00c54d																								
-美食星球-2,https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8#http://103.45.68.47/gy/gy611/xsj.php?id=food-planet																								
+美食星球-2,http://zuozhus.site/live/Smartv.php?id=foodplanet_twn#https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8#http://103.45.68.47/gy/gy611/xsj.php?id=food-planet																								
 觅食者,http://ax89.vip/yy.php?id=1382736841																								
 探秘中华美食,http://ax89.vip/yy.php?id=1354930954																								
 品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/ScYGYjfaQwU8vpqEOH848lRJcXTFbFScsCCR0lIDG8mqCWS8nZBAhRvdqCqrSPShvLqu5vhYtIkMYKg0UnIExbbsMlHd0z3QSLMng5Etwd0Zq1lBo8D9y5kMMexJujAj/1e87becf5c6e831194ce19724b08eebc0/c56_lb_182_600_t10.m3u8?key=046e9ae13fedccb0eab97af9d7de28ba0&dis_t=1651215070&z=akm_oversea&pv=0.2																								
@@ -575,7 +575,7 @@ CCTV5+http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?cha
 CCTV5																								
 CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3																								
 																								
-Jap-1/基礎日文,#genre#																								
+
 																								
 																								
 																								
@@ -589,7 +589,7 @@ Jap-1/基礎日文,#genre#
 																								
 																								
 																								
-Jap-2/简易旅遊日文,#genre#																								
+																							
 																								
 																								
 																								
@@ -599,20 +599,7 @@ Jap-2/简易旅遊日文,#genre#
 																								
 																								
 																								
-																								
-Jap-3/日文易学,#genre#																								
-																								
-																								
-																								
-																								
-																								
-																								
-																								
-																								
-																								
-																								
-																								
-																								
+																																												
 																								
 																								
 																								
@@ -627,7 +614,6 @@ Jap-3/日文易学,#genre#
 																								
 																								
 																								
-Jap-4/基礎日文,#genre#																								
 																								
 																								
 																								
@@ -639,7 +625,18 @@ Jap-4/基礎日文,#genre#
 																								
 																								
 																								
-Jap-5/简易旅遊日文,#genre#																								
+																																												
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																																												
 																								
 																								
 																								
@@ -674,8 +671,8 @@ Jap-6/日文易学-1,#genre#
 																								
 																								
 																								
+																																														
 																								
-Jap-7/日文易学-2,#genre#																								
 																								
 																								
 																								
@@ -702,7 +699,6 @@ Jap-7/日文易学-2,#genre#
 																								
 																								
 																								
-Jap-8/簡明日語,#genre#																								
 																								
 																								
 																								
@@ -753,7 +749,7 @@ Jap-8/簡明日語,#genre#
 																								
 																								
 																								
-Jap-9/職場篇,#genre#																								
+																							
 																								
 																								
 																								
@@ -785,7 +781,7 @@ StingrayMusic70-4,https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 																								
 																								
 																								
-Sports-2/体育,#genre#																								
+																						
 																								
 																								
 																								
