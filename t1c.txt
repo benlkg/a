@@ -2,8 +2,10 @@
 AEC-1,http://zuozhus.site/live/Smartv.php?id=AEC
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC-4,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-3,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
+AEC-4,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-5,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC-6,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
 AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8
 AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
@@ -19,6 +21,7 @@ SUN TV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 爱奇艺,P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
 爱奇艺2,http://zuozhus.site/live/Smartv.php?id=Qiyi
 Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
+全佳1,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
 全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
