@@ -1,5 +1,5 @@
 马来西亚,#genre#
-AEC-1,http://zuozhus.site/live/Smartv.php?id=AEC
+AEC-1,https://phdown.serv00.net/Smartv.php?id=AEC
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-3,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
@@ -21,6 +21,7 @@ SUN TV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 爱奇艺,P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
 爱奇艺2,http://zuozhus.site/live/Smartv.php?id=Qiyi
 Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
+Astro QJ,https://phdown.serv00.net/Smartv.php?id=Quanjia
 全佳1,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
 全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
@@ -29,6 +30,8 @@ Astro AOD HD 311,P2p://generationnexxxt.com:19806/676d5767c17749f8950a81ed868138
 中天亚洲台,P2p://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
 TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
+欢喜台 HD,https://phdown.serv00.net/Smartv.php?id=Huahee
+欢喜台 backup,https://phdown.serv00.net/Smartv.php?id=Huahee_backup
 Astro欢喜台,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
 歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee
 KBS World,P2p://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
@@ -51,6 +54,7 @@ Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446
 beIN Sports 3,P2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
 WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 Sky News,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
+TV8,https://phdown.serv00.net/Smartv.php?id=TV8
 八度空间(备),P2p://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f
 tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 Berita RTM,P2p://generationnexxxt.com:19806/da7e362a8d2e40b3bbe02f430a39fc0e
