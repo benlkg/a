@@ -3,10 +3,10 @@ AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d																								
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d																								
 AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8																								
-AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8																					
+AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8																								
 AEC-5,http://zuozhus.site/live/Smartv.php?id=AEC																								
-AEC-6,mitv://generationnexxxt.com:19806/cd1cf3c664a44822898e14d8025f2fc1																								
-AEC-7,mitv://generationnexxxt.com:19806/42b050d4e8534ad0b1b3ede5b2aab501																								
+AEC-6,https://phdown.serv00.net/Smartv.php?id=AEC																								
+AEC-7,https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8																								
 AEC-8																								
 AEC-9																								
 AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8																								
@@ -18,9 +18,9 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-4,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-5,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8																								
 歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee																								
-歡喜臺333-7,mitv://generationnexxxt.com:19806/808f3ef554f34e559f91e005ef819803																								
-歡喜臺333-8																								
-歡喜臺333-9																								
+歡喜臺333-7,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8																								
+歡喜臺333-8,https://phdown.serv00.net/Smartv.php?id=Huahee																								
+歡喜臺333-9,https://phdown.serv00.net/Smartv.php?id=Huahee_backup																								
 歡喜臺333-10																								
 歡喜臺333-11,http://198.16.100.90:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496																								
 																								
@@ -33,8 +33,8 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 																								
 全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia																								
 全佳,p2p://108.181.32.169:14429/64124c91000ce85ba0d50d273a3f550c																								
-全佳,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8																								
-全佳																								
+全佳,https://phdown.serv00.net/Smartv.php?id=Quanjia																								
+全佳-1,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8																								
 全佳-2,http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8																								
 全佳-2																								
 爱奇艺,http://zuozhus.site/live/Smartv.php?id=Qiyi#P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
@@ -42,12 +42,12 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/708.m3u8?WithCaption																								
 爱奇艺-2,http://iptv12k.com:35461/live/test167/12345/13374.m3u8?WithCaption#mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f																								
 爱奇艺-2,http://103.45.68.47/gy/gy611/xsj.php?id=astro-iqiyi																								
-																								
+爱奇艺,https://phdown.serv00.net/Smartv.php?id=Qiyi																								
 華麗,https://z88.ubtvfans.com/live/rx3/429/0dde9804e5414c5bb68e1c4e99e82e2c/index.m3u8																								
 华丽台1,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244																								
 华丽台1,http://iptv12k.com:35461/live/test167/12345/698.m3u8?WithCaption																								
 华丽台1,P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244																								
-华丽-2,mitv://generationnexxxt.com:19806/441f455bd3c04c628bf607b2e35f538e																								
+华丽-2,mitv://135.148.104.228:19806/441f455bd3c04c628bf607b2e35f538e																								
 华丽-2,mitv://generationnexxxt.com:19806/4ca2b62e4dd94ae9b523456d84428b39																								
 华丽-2,http://103.45.68.47/gy/gy611/xsj.php?id=astro-wahlaitoi																								
 华丽-2,p2p://108.181.32.169:14429/64100a0b000cbbda980131a946a90bc0																								
@@ -55,7 +55,7 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 翡翠台(b),p3p://108.181.32.169:16341/6410094a000234c597fe3d0e63905877																								
 翡翠台MY,p3p://108.181.32.169:16341/64100a0b000cbbda980131a946a90bc0																								
 TVB黃金翡翠台,p3p://108.181.32.169:16341/64206c63000c3a90d801201c5fe2483a																								
-双星,mitv://generationnexxxt.com:19806/7203f95771fc422e91a0b1385d90918b																								
+双星,mitv://135.148.104.228:19806/7203f95771fc422e91a0b1385d90918b																								
 双星,mitv://generationnexxxt.com:19806/2ddc37cfa52248f88b678af3bf814f02																								
 双星,p2p://108.181.32.169:14429/64124cd6000d2114a0d61abd59b301f5																								
 双星,p3p://108.181.32.169:16341/64124cd6000d2114a0d61abd59b301f5																								
@@ -84,10 +84,10 @@ TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175#mitv://13
 TV2,https://epg.pw/stream/4f3af015d405bff6ec2961edb41746765c0a38e23bfc44dafaef41c485ed9972.m3u8																								
 TV2,https://live01.gohkh9.eu.org/live.php?id=TV2																								
 八度空間,P2p://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1																								
-八度空間,mitv://generationnexxxt.com:19806/2e2b2c26f8e54bbbb79581b30bb9816e																								
+八度空間,mitv://135.148.104.228:19806/2e2b2c26f8e54bbbb79581b30bb9816e																								
 八度空間,mitv://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f																								
 八度空間,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1																								
-八度空間,mitv://generationnexxxt.com:19806/daa79ab2d5c64092b7868388c9fe3d2d																								
+八度空間,mitv://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d																								
 八度空間-2,mitv://generationnexxxt.com:19806/8796cd8daa694ec8a4dbe9a03d0e5c30																								
 TV8,P2p://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f#http://103.45.68.47/gy/gy611/xsj.php?id=8tv																								
 TV8,https://epg.pw/stream/88043f2fe81ad55b782381fa21fc327eb256463ac274886aff045b43a0d248df.ctv																								
@@ -575,7 +575,6 @@ CCTV5+http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?cha
 CCTV5																								
 CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3																								
 																								
-
 																								
 																								
 																								
@@ -589,7 +588,6 @@ CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?chan
 																								
 																								
 																								
-																							
 																								
 																								
 																								
@@ -599,7 +597,6 @@ CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?chan
 																								
 																								
 																								
-																																												
 																								
 																								
 																								
@@ -625,7 +622,6 @@ CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?chan
 																								
 																								
 																								
-																																												
 																								
 																								
 																								
@@ -636,7 +632,6 @@ CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?chan
 																								
 																								
 																								
-																																												
 																								
 																								
 																								
@@ -646,7 +641,6 @@ CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?chan
 																								
 																								
 																								
-Jap-6/日文易学-1,#genre#																								
 																								
 																								
 																								
@@ -671,7 +665,6 @@ Jap-6/日文易学-1,#genre#
 																								
 																								
 																								
-																																														
 																								
 																								
 																								
@@ -749,7 +742,18 @@ Jap-6/日文易学-1,#genre#
 																								
 																								
 																								
-																							
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
 																								
 																								
 																								
@@ -781,7 +785,7 @@ StingrayMusic70-4,https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 																								
 																								
 																								
-																						
+																								
 																								
 																								
 																								
