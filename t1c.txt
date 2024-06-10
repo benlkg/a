@@ -1,11 +1,11 @@
 马来西亚,#genre#
 AEC-1,https://phdown.serv00.net/Smartv.php?id=AEC
-AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-2,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC#https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
 Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-3,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
 AEC-4,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-5,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC-6,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
+AEC-6,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d#https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
 AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8
 AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
@@ -13,7 +13,7 @@ TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
 TV3,P2p://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
 NTV7,P2p://generationnexxxt.com:19806/7c0bb3dc5b304064809b7b4711d75ccc
-八度空间,P2p://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
+八度空间,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=TV8#P2p://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
 TV9,P2p://generationnexxxt.com:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
 Astro Oasis HD,P2p://generationnexxxt.com:19806/ba94a812ece14f4484d550852d736644
 Al-Hijrah,P2p://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
@@ -22,7 +22,7 @@ SUN TV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 爱奇艺2,http://zuozhus.site/live/Smartv.php?id=Qiyi
 Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
 Astro QJ,https://phdown.serv00.net/Smartv.php?id=Quanjia
-全佳1,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
+全佳1,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Quanjia#https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
 全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
@@ -33,7 +33,7 @@ TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 欢喜台 HD,https://phdown.serv00.net/Smartv.php?id=Huahee
 欢喜台 backup,https://phdown.serv00.net/Smartv.php?id=Huahee_backup
 Astro欢喜台,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee
+歡喜臺333,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Huahee#http://zuozhus.site/live/Smartv.php?id=Huahee
 KBS World,P2p://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
 TVS,P2p://generationnexxxt.com:19806/18061f7a3a814916bebc76d2363b31e9
 tvN Movies HD,P2p://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7
