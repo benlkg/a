@@ -7,8 +7,8 @@ AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/ind
 AEC-5,http://zuozhus.site/live/Smartv.php?id=AEC																								
 AEC-6,https://phdown.serv00.net/Smartv.php?id=AEC																								
 AEC-7,https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8																								
-AEC-8																								
-AEC-9																								
+AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53																								
+AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC#https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec																								
 AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8																								
 AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption																								
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8																								
@@ -16,14 +16,14 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8																								
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-4,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
-歡喜臺333-5,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8																								
+歡喜臺333-5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-huaheedai																								
 歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee																								
 歡喜臺333-7,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8																								
 歡喜臺333-8,https://phdown.serv00.net/Smartv.php?id=Huahee																								
 歡喜臺333-9,https://phdown.serv00.net/Smartv.php?id=Huahee_backup																								
-歡喜臺333-10																								
+歡喜臺333-10,http://gmlive.ddns.net:5000/kun5g/kun5g2024/52																								
 歡喜臺333-11,http://198.16.100.90:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496																								
-																								
+歡喜臺333-12,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Huahee#https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Huahee_backup																								
 																								
 																								
 																								
@@ -35,12 +35,12 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 全佳,p2p://108.181.32.169:14429/64124c91000ce85ba0d50d273a3f550c																								
 全佳,https://phdown.serv00.net/Smartv.php?id=Quanjia																								
 全佳-1,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8																								
-全佳-2,http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8																								
-全佳-2																								
-爱奇艺,http://zuozhus.site/live/Smartv.php?id=Qiyi#P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
+全佳-2,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Quanjia																								
+全佳-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-quanjia																								
+爱奇艺,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Qiyi#http://zuozhus.site/live/Smartv.php?id=Qiyi#P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
 爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84																								
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/708.m3u8?WithCaption																								
-爱奇艺-2,http://iptv12k.com:35461/live/test167/12345/13374.m3u8?WithCaption#mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f																								
+爱奇艺-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-iqiyi#http://iptv12k.com:35461/live/test167/12345/13374.m3u8?WithCaption#mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f																								
 爱奇艺-2,http://103.45.68.47/gy/gy611/xsj.php?id=astro-iqiyi																								
 爱奇艺,https://phdown.serv00.net/Smartv.php?id=Qiyi																								
 華麗,https://z88.ubtvfans.com/live/rx3/429/0dde9804e5414c5bb68e1c4e99e82e2c/index.m3u8																								
@@ -52,9 +52,9 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 华丽-2,http://103.45.68.47/gy/gy611/xsj.php?id=astro-wahlaitoi																								
 华丽-2,p2p://108.181.32.169:14429/64100a0b000cbbda980131a946a90bc0																								
 华丽-2,p2p://108.181.32.169:14429/6410094a000234c597fe3d0e63905877																								
-翡翠台(b),p3p://108.181.32.169:16341/6410094a000234c597fe3d0e63905877																								
-翡翠台MY,p3p://108.181.32.169:16341/64100a0b000cbbda980131a946a90bc0																								
-TVB黃金翡翠台,p3p://108.181.32.169:16341/64206c63000c3a90d801201c5fe2483a																								
+翡翠台(b),https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Wlt																								
+																								
+TVB黃金翡翠台																								
 双星,mitv://135.148.104.228:19806/7203f95771fc422e91a0b1385d90918b																								
 双星,mitv://generationnexxxt.com:19806/2ddc37cfa52248f88b678af3bf814f02																								
 双星,p2p://108.181.32.169:14429/64124cd6000d2114a0d61abd59b301f5																								
@@ -90,19 +90,19 @@ TV2,https://live01.gohkh9.eu.org/live.php?id=TV2
 八度空間,mitv://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d																								
 八度空間-2,mitv://generationnexxxt.com:19806/8796cd8daa694ec8a4dbe9a03d0e5c30																								
 TV8,P2p://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f#http://103.45.68.47/gy/gy611/xsj.php?id=8tv																								
-TV8,https://epg.pw/stream/88043f2fe81ad55b782381fa21fc327eb256463ac274886aff045b43a0d248df.ctv																								
+TV8,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=TV8																								
 TV8,https://live01.gohkh9.eu.org/live.php?id=tv8																								
 TV8,https://z88.ubtvfans.com/live/rx3/442/87b78cbcd3a3385f2866c3838342f4ca/index.m3u8																								
 AWANI-1,P2p://generationnexxxt.com:19806/35b5cce22fc04eb59b09311468ab603a#mitv://135.148.104.228:19806/3a1a9a23587140a7bbc5734b00c03f52																								
 AWANI-2,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8#http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b#http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190																								
-AWANI,http://103.45.68.47/gy/gy611/xsj.php?id=astro-awani#mitv://generationnexxxt.com:19806/5f8c4af20b1a4dcc9f897200cebd2a93																								
-AWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8																								
+AWANI,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Awani#mitv://generationnexxxt.com:19806/5f8c4af20b1a4dcc9f897200cebd2a93																								
+AWANI,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-awani																								
 AWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8																								
-Bernama TV,https://epg.pw/stream/bab8a6cc6fbf03faf2db3d6e218bc1712c1921291a8c9ae6c7421326e33cf736.ctv																								
-Bernama TV,https://epg.pw/stream/bd533de64226b8c9f4345b2b8f408ecc7347105f67adbafe5489225629f1aeb4.m3u8																								
-Bernama TV,https://epg.pw/stream/6727d92da44c4691460ac6b4c68c2b0f3b05cd2f413f8b9542014bf8511da781.m3u8																								
+Bernama TV,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Bernama																								
+Bernama TV																								
+Bernama TV																								
 Berita RTM-1,P2p://generationnexxxt.com:19806/da7e362a8d2e40b3bbe02f430a39fc0e#https://live01.gohkh9.eu.org/live.php?id=BERITA#mitv://generationnexxxt.com:19806/8480d3a4e32947dc968d4932d26c921f																								
-Berita RTM-2,https://epg.pw/stream/211a6e58f0fe8ff21fdaa6859181301143d7c07e37abbfda332a5e2ca5996b75.m3u8#https://epg.pw/stream/46619bb9068dbd13aa743b25e532d42eb7030b3b8a315e05549aa167409a28ba.m3u8																								
+Berita RTM-2																								
 AL JAZEERA																								
 AL JAZEERA																								
 AL JAZEERA-1																								
@@ -303,8 +303,8 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 																								
 公視3,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0																								
 公视3,mitv://generationnexxxt.com:19806/9f10de92d248445faa168d75a50e1df2																								
-公視台語台,https://epg.pw/stream/87a9f8cf14a2e72000580ab50c5b3eb4b12a1777762e65dbef6a7505112b772f.ctv																								
 公視台語台																								
+公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty																								
 																								
 大爱																								
 中视经典台																								
@@ -825,3 +825,28 @@ Top News,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/1254204
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4.ts#http://2022.stream-link.org/live/1210415010#P2p://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4																								
 MSNBC,mitv://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61.ts#P2p://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61																								
 CBC News,mitv://generationnexxxt.com:19806/f4f2d24eb46f42c693d83e97290457e8.ts																								
+																								
+Sport-2,#genre#																								
+Now Sports 641,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports641																								
+Now NBA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-nba																								
+Now Sports精选,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-prime																								
+Now Sports 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-1																								
+Now Sports 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-2																								
+Now Sports 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-3																								
+Now Sports 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-4																								
+Now Sports 5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-5																								
+Now Sports 6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-6																								
+Now Sports 7,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-7																								
+Now Sports Plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-plus																								
+Now Sports 英超1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league1																								
+Now Sports 英超2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league2																								
+Now Sports 英超3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league3																								
+Now Sports 英超4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league4																								
+Now Sports 英超5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league5																								
+Now Sports 英超6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league6																								
+Now beIN SPORTS 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports1																								
+Now beIN SPORTS 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports2																								
+Now beIN SPORTS 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports3																								
+Now 668,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-668																								
+Now Golf 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-golf2																								
+Now Golf 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-golf3																								
