@@ -283,7 +283,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f8
 MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-
+公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
 中国,#genre#
 CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,P2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
