@@ -1,14 +1,17 @@
 马来西亚,#genre#
-AEC-1,https://phdown.serv00.net/Smartv.php?id=AEC
-AEC-2,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC#https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
-Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC-3,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
-AEC-4,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC-5,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC-6,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d#https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
-AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8
-AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption
-AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+AEC,https://phdown.serv00.net/Smartv.php?id=AEC
+AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8#https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
+AEC-5,https://stream.freetv.fun/astro-aec-1.m3u8#https://stream.freetv.fun/astro-aec-2.ctv
+AEC-6,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC-7,http://zuozhus.site/live/Smartv.php?id=AEC
+AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC
+AEC-10,https://stream.freetv.fun/5645edf8b80fa86ec4c1d4f4689a79ee6ee444ffb807bb12aa57533b9478fceb.m3u8
+AEC-11,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
+AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
 TV3,P2p://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
@@ -283,7 +286,9 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f8
 MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
+公視台語台-1,https://stream.freetv.fun/gong-shi-tai-yu-1.ctv
+公视台语台-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
+
 中国,#genre#
 CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,P2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
@@ -542,6 +547,16 @@ CLASSICA 古典乐,P2p://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004
 MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 体育,#genre#
+Astro SuperSport1,https://stream.freetv.fun/astro-supersport-1.ctv
+Astro SuperSport2,https://stream.freetv.fun/astro-supersport-2-2.ctv
+Astro SuperSport3,https://stream.freetv.fun/astro-supersport-3-2.ctv#http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+Astro SuperSport4,https://stream.freetv.fun/astro-supersport-4-2.ctv
+Astro SuperSport5,https://stream.freetv.fun/astro-supersport-5-1.ctv
+Astro SuperSport-1,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+Astro Arena,P2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
 CCTV5,P2p://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
 CCTV5+,P2p://generationnexxxt.com:19806/5b390808c064415fa55fa30feb8788ff
 魅力足球,P2p://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
@@ -549,11 +564,6 @@ CCTV5+,P2p://generationnexxxt.com:19806/5b390808c064415fa55fa30feb8788ff
 广东体育,P2p://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
 Sky Sports Golf,P2p://generationnexxxt.com:19806/65791ef9000e6a67316403ad31ad3930
 Sky Sports Football,P2p://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
-Astro Arena,P2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
 beIN Sports 3,P2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
 WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 纬来育乐台,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
