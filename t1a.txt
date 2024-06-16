@@ -1,17 +1,17 @@
 Mal/马来,#genre#																								
-AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8																								
-AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d																								
-AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d																								
-AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8																								
-AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8																								
-AEC-5,http://zuozhus.site/live/Smartv.php?id=AEC																								
-AEC-6,https://phdown.serv00.net/Smartv.php?id=AEC																								
-AEC-7,https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8																								
-AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53																								
-AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC#https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec																								
-AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8																								
-AEC-11(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption																								
-AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8																								
+AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8#https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
+AEC-5,https://stream.freetv.fun/astro-aec-1.m3u8#https://stream.freetv.fun/astro-aec-2.ctv
+AEC-6,https://phdown.serv00.net/Smartv.php?id=AEC
+AEC-7,http://zuozhus.site/live/Smartv.php?id=AEC
+AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC
+AEC-10,https://stream.freetv.fun/5645edf8b80fa86ec4c1d4f4689a79ee6ee444ffb807bb12aa57533b9478fceb.m3u8
+AEC-11,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
+AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption																								
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8																								
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
@@ -303,9 +303,8 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 																								
 公視3,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0																								
 公视3,mitv://generationnexxxt.com:19806/9f10de92d248445faa168d75a50e1df2																								
-公視台語台																								
-公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty																								
-																								
+公視台語台-1,https://stream.freetv.fun/gong-shi-tai-yu-1.ctv
+公视台语台-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty																		
 大爱																								
 中视经典台																								
 中视菁采台																								
@@ -487,30 +486,12 @@ Dog Tv,http://sukitam.bccdn.xyz:80/45873482894pw/94852932845Pw/138
 																								
 																								
 Sports/体育,#genre#																								
-Astro SuperSport 1,https://sc2022.stream-link.org/tv2306.php?id=s19																								
-Astro SuperSport 2,https://sc2022.stream-link.org/tv2306.php?id=s20																								
-Astro SuperSport 3,https://sc2022.stream-link.org/tv2306.php?id=s21#http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4																								
-Astro SuperSport 4,https://sc2022.stream-link.org/tv2306.php?id=s22																								
-Astro SuperSport 5																								
-AstroSuperSport1,mitv://135.148.104.228:19806/8f8ad3ee6aa54ccbac64314553dfa1fa																								
-AstroSuperSport2,mitv://135.148.104.228:19806/6edae31caab6475cad76175fca389922																								
-AstroSuperSport3,mitv://135.148.104.228:19806/5b9b9986c20244908be60c3f18a3e435																								
-AstroSuperSport4,mitv://135.148.104.228:19806/c7f1be20958243f68c943016c446501e																								
-AstroSuperSport5,mitv://135.148.104.228:19806/d41f257d25e54a0aa09227bde87eccf5																								
-Astro SuperSport 1,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa																								
-Astro SuperSport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0																								
-Astro SuperSport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435																								
-Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e																								
-Astro SuperSport 5,mitv://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5																								
-																								
-Astro Sp1,https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8																								
-ASSP1_HD,https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8																								
-Astro Sp2,https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8																								
-ASSP2_HD,https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8																								
-Astro Sp3,https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8																								
-ASSP3_HD,https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8																								
-Astro Sp4,https://z88.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8																								
-Astro Sp5,https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8																								
+Astro SuperSport 1,https://stream.freetv.fun/astro-supersport-1.ctv
+Astro SuperSport 2,https://stream.freetv.fun/astro-supersport-2-2.ctv
+Astro SuperSport 3,https://stream.freetv.fun/astro-supersport-3-2.ctv#http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+Astro SuperSport 4,https://stream.freetv.fun/astro-supersport-4-2.ctv
+Astro SuperSport 5,https://stream.freetv.fun/astro-supersport-5-1.ctv
+						
 Arena-1,mitv://135.148.104.228:19806/c046c74b43184a9bac5b0e402944aca5#mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5																								
 Arena-2,http://62.210.209.242:2095/live/metatvpro/888909/26306.ts?token=GEFeAEAMEQ5EAghSBAAHAFZSUApUBgYCDlEHUFFXVFJUBQ5ZAQUAVwURFUcSTBRRUgg6WwEVC1MBAwAETRQXEAYRaQhXRgkWVQQOXFUaShZHDAhXRw0AVw8IBQFXAlFRT0FGCFdGCRZXCwhcWBpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1ABUAQRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRQEUgRWQdLZgYOVghRUBEMXQtEE1sVBgACQxpADgwNXxVcFmxED1cbX0MKVQULUEdP#https://dispatch.ulivetv.net/v/live/cg4vigttsr0g.m3u8?stream_id=cg4vigttsr0g&timestamp=1686363320&rand=clwUXaWaW0&uuid=9b647b3816b2a66a&from=web&sign=f26a720ac30b707f8355840b22c2f1f0#P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts#http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8																								
 																								
