@@ -1,11 +1,5 @@
 EuroCup,#genre#
-CCTV-5,http://live-cmvideo.cmread.com:80/migu/lunbo/eufootball/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=da834f97e3c8832f6fd8f2be9ba16464#https://phdown.serv00.net/Smartv.php?id=cctv5#https://stream.freetv.fun/b2de91ed47205062611a91136b7ce364600019b8c229ec8a8df1700a28d6a395.m3u8#https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546 
-EuroCup-1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-EuroCup-2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-EuroCup-3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-Now Sport-3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3#http://histar.zapi.us.kg/?id=now-sports-3
-ViuTv,http://histar.zapi.us.kg/?id=viutv
-TNT Sport,https://stream.freetv.fun/tnt-sports-1.m3u8
+CCTV-5,https://phdown.serv00.net/Smartv.php?id=cctv5#https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546 
 
 马来西亚,#genre#
 AEC,https://phdown.serv00.net/Smartv.php?id=AEC
@@ -19,7 +13,7 @@ AEC-7,http://zuozhus.site/live/Smartv.php?id=AEC
 AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
 AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC
 AEC-10
-AEC-11,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
+AEC-11
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
