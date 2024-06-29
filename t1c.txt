@@ -13,12 +13,12 @@ AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC-4,https://phdown.serv00.net/Smartv.php?id=AEC
-AEC-5
-AEC-6,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC-5,https://z02.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
+AEC-6,https://z02.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
 AEC-7,http://zuozhus.site/live/Smartv.php?id=AEC
 AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
 AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC
-AEC-10
+AEC-10,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC-11,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
