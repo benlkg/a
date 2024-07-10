@@ -8,7 +8,7 @@ TNT Sport,https://stream.freetv.fun/tnt-sports-1.m3u8
 
 
 马来西亚,#genre#
-AEC,http://vo01.mohdtv.com:8880/voby4055/7457362324/1723
+AEC,http://vo01.mohdtv.com:8880/voby4055/7457362324/1723#p3p://108.181.20.159:50012/6533b8de000efc1be33df56933cc5afe#p3p://108.181.20.159:50012/6557a4a6000efa206f8e50c360a97728
 AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
