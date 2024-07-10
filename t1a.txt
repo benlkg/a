@@ -1,19 +1,19 @@
 Mal/马来,#genre#																								
-AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC,http://vo01.mohdtv.com:8880/voby4055/7457362324/1723#p3p://108.181.20.159:50012/6533b8de000efc1be33df56933cc5afe#p3p://108.181.20.159:50012/6557a4a6000efa206f8e50c360a97728
 AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC-4,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8#https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
-AEC-5,https://stream.freetv.fun/astro-aec-1.m3u8#https://stream.freetv.fun/astro-aec-2.ctv
-AEC-6,https://phdown.serv00.net/Smartv.php?id=AEC
+AEC-4,https://phdown.serv00.net/Smartv.php?id=AEC
+AEC-5,https://z02.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
+AEC-6,https://z02.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
 AEC-7,http://zuozhus.site/live/Smartv.php?id=AEC
 AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
 AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC
-AEC-10,https://stream.freetv.fun/5645edf8b80fa86ec4c1d4f4689a79ee6ee444ffb807bb12aa57533b9478fceb.m3u8
+AEC-10,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC-11,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption																								
-歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8																								
+歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8#p3p://108.181.20.159:50012/620f05bb0000b01ff985bb62369741c0			
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-4,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-huaheedai																								
@@ -30,7 +30,7 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv
 																								
 欢笑剧场4K																								
 欢笑剧场4K																								
-																								
+全佳,p3p://108.181.20.159:50012/6557a0e7000ca80b6f7fae0f1a2442b8#p3p://108.181.20.159:50012/5fdedd4a00028c876d82eb0c22832e55			
 全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia																								
 全佳,p2p://108.181.32.169:14429/64124c91000ce85ba0d50d273a3f550c																								
 全佳,https://phdown.serv00.net/Smartv.php?id=Quanjia																								
@@ -39,7 +39,7 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv
 全佳-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-quanjia																								
 爱奇艺,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Qiyi#http://zuozhus.site/live/Smartv.php?id=Qiyi#P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
 爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84																								
-爱奇艺,http://iptv12k.com:35461/live/test167/12345/708.m3u8?WithCaption																								
+爱奇艺,http://iptv12k.com:35461/live/test167/12345/708.m3u8?WithCaption#p3p://108.181.20.159:50012/5fe07bb800090e1173d5591b2d87144a																							
 爱奇艺-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-iqiyi#http://iptv12k.com:35461/live/test167/12345/13374.m3u8?WithCaption#mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f																								
 爱奇艺-2,http://103.45.68.47/gy/gy611/xsj.php?id=astro-iqiyi																								
 爱奇艺,https://phdown.serv00.net/Smartv.php?id=Qiyi																								
