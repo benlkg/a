@@ -1,24 +1,25 @@
 Mal/马来,#genre#																								
-AEC,http://vo01.mohdtv.com:8880/voby4055/7457362324/1723#p3p://108.181.20.159:50012/6533b8de000efc1be33df56933cc5afe#p3p://108.181.20.159:50012/6557a4a6000efa206f8e50c360a97728
-AEC-1,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC-2,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC-3,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC-4,https://phdown.serv00.net/Smartv.php?id=AEC
-AEC-5,https://z02.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
-AEC-6,https://z02.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
-AEC-7,http://zuozhus.site/live/Smartv.php?id=AEC
-AEC-8,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
-AEC-9,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=AEC
-AEC-10,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC-11,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
+AEC,http://vo01.mohdtv.com:8880/voby4055/7457362324/1723
+AEC-2,http://23.26.239.95:3599/xsj.php?id=astro-aec
+AEC-
+AEC-
+AEC-
+AEC-
+AEC-
+AEC-
+AEC-
+AEC-9
+AEC-10
+AEC-11
 AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption																								
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8#p3p://108.181.20.159:50012/620f05bb0000b01ff985bb62369741c0			
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-4,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
 歡喜臺333-5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-huaheedai																								
 歡喜臺333-6,http://zuozhus.site/live/Smartv.php?id=Huahee																								
-歡喜臺333-7,https://z88.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8																								
+歡喜臺333-7,http://23.26.239.95:3599/xsj.php?id=astro-huaheedai
 歡喜臺333-8,https://phdown.serv00.net/Smartv.php?id=Huahee																								
 歡喜臺333-9,https://phdown.serv00.net/Smartv.php?id=Huahee_backup																								
 歡喜臺333-10,http://gmlive.ddns.net:5000/kun5g/kun5g2024/52																								
@@ -34,7 +35,7 @@ AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv
 全佳,http://zuozhus.site/live/Smartv.php?id=Quanjia																								
 全佳,p2p://108.181.32.169:14429/64124c91000ce85ba0d50d273a3f550c																								
 全佳,https://phdown.serv00.net/Smartv.php?id=Quanjia																								
-全佳-1,https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8																								
+全佳-1,全佳,http://23.26.239.95:3599/xsj.php?id=astro-quanjia			
 全佳-2,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Quanjia																								
 全佳-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-quanjia																								
 爱奇艺,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Qiyi#http://zuozhus.site/live/Smartv.php?id=Qiyi#P2p://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84#http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption																								
@@ -322,241 +323,239 @@ ETTV AMERICA,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 Taiwan+																								
 																								
 																								
-Travel/旅遊,#genre#																								
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8																								
-sbtv,https://epg.pw/stream/8912d126333dd67b4dcee543f479ee64edc1a405ececc7b604cd88e690f12d4b.m3u8																								
-HTB北海道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8																								
-靖天國際,http://103.45.68.47/gy/gy611/xsj.php?id=jtgj																								
-靖天國際,http://zuozhus.site/live/Smartv.php?id=jingtianintl_twn																								
-大陸尋奇																								
-BBC Travel																								
-HOY TV																								
-HOY TV																								
-HOY TV																								
-中天美食旅游																								
-樂視旅遊攻略																								
-爱尔达娛樂,http://player.m3u8cdn.live/live/ytdx/ytdx.php?tid=gtlive&id=eltaent																								
-愛爾達生活旅遊																								
-亚洲旅游台,P2p://generationnexxxt.com:19806/816c4598cfb641f5845b90a3bc772f1c																								
-亚洲旅游台,https://z88.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8																								
-亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d																								
-亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8																								
-亞洲旅遊台																								
-亚洲旅游台-2,https://epg.pw/stream/ae6efba421b2efd4d412966745c66cf425cb29ebcfe10c8ab1010a12d245520a.ctv#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c																								
-EYETV旅游,P2p://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e#http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94#http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94																								
-EYE TV旅遊,mitv://generationnexxxt.com:19806/87f3203d6e0549aca283b920851a335a																								
-EYE TV旅游台-2,http://103.45.68.47/gy/gy611/xsj.php?id=eye-travel																								
-EYE TV旅遊台,p2p://108.181.32.169:14429/642524030003a5b2ea6e2e6f6efc45a1																								
-EYE TV旅遊台1,http://zuozhus.site/live/Smartv.php?id=eyetvtravel_twn																								
-EYE TV旅遊台-2,P2p://generationnexxxt.com:19806/055ce8e749c1425c87950f93d0bf9bcd																								
-ET Today																								
-民視旅遊台,https://z88.ubtvfans.com/live/rx2/78/b74e51bdd2f933ad4272e33628754a67/index.m3u8#https://epg.pw/stream/257816568cc80afe4f15ea7c55110ee3f323a74ad270f73c68eb0caf5935948d.m3u8																								
-中天亞洲台																								
-旅遊																								
-宜昌旅游,https://epg.pw/stream/257816568cc80afe4f15ea7c55110ee3f323a74ad270f73c68eb0caf5935948d.m3u8																								
-CGTN紀錄頻道																								
-Disvovery Asia-1,http://iptv12k.com:35461/live/test167/12345/628.m3u8																								
-Disvovery Asia-2,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715																								
-																								
-																								
-緯來日本1,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2#mitv://generationnexxxt.com:19806/f8f4f06d93c14ef995a4ef158883170c																								
-緯來日本2,http://zuozhus.site/live/Smartv.php?id=videolandjapan#http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption																								
-緯來日本,http://103.45.68.47/gy/gy611/xsj.php?id=videoland-japan																								
-緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb																								
-																								
-龙华日韩																								
-龙华日韩																								
-国兴卫视,P2p://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20#http://103.45.68.47/gy/gy611/xsj.php?id=gold-sun-tv#mitv://generationnexxxt.com:19806/c6671fccbeaf4507be73153d8c00e0bd																								
-靖天日本台,mitv://generationnexxxt.com:19806/caaf5e874ae1495fa336a280e3459143																								
-靖天日本台,P2p://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d																								
-靖天日本台																								
-环球旅游																								
-CEC旅游																								
-東京淺草																								
-東京淺草																								
-																								
-																								
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd																								
-地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8																								
-乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8																								
-																								
-远方的家,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8																								
-美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8																								
-美丽中国自然,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8																								
-航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8																								
-航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8																								
-航拍中国第三季,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8																								
-																								
-																								
-																								
-																								
-																								
-TLC旅遊生活,http://iptv12k.com:35461/live/test167/12345/639.m3u8																								
-																								
-Travel Channel,http://iptv12k.com:35461/live/test167/12345/635.m3u8																								
-																								
-GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8																								
-Gloabal Travel																								
-																								
-																								
-																								
-Journey,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8																								
-																								
-																								
-																								
-																								
-																								
-Food-1/美食,#genre#																								
-亞洲美食AFN,mitv://generationnexxxt.com:19806/a2e6364570ad45a2862e0a42c7e2524d#p3p://108.181.32.169:16341/641382600009923ea58f3ce6638b7516																								
-亞洲美食AFN,P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50																								
-亞洲美食AFN,P2p://generationnexxxt.com:19806/8a565409a26044bead7e66ac44c894f0																								
-非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8																								
-美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0#mitv://generationnexxxt.com:19806/26b516cb871e4984b9cf04166b42dc02#p2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23#https://epg.pw/stream/3d70065a1d32bf3e9c1592d81e2cccc61cf6501b4b0e4339211cbfd46cdf9067.ctv																								
-美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8#P2p://generationnexxxt.com:19806/60c698afbda7443998a2b9fd5c00c54d																								
-美食星球-2,http://zuozhus.site/live/Smartv.php?id=foodplanet_twn#https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8#http://103.45.68.47/gy/gy611/xsj.php?id=food-planet																								
-觅食者,http://ax89.vip/yy.php?id=1382736841																								
-探秘中华美食,http://ax89.vip/yy.php?id=1354930954																								
-品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/ScYGYjfaQwU8vpqEOH848lRJcXTFbFScsCCR0lIDG8mqCWS8nZBAhRvdqCqrSPShvLqu5vhYtIkMYKg0UnIExbbsMlHd0z3QSLMng5Etwd0Zq1lBo8D9y5kMMexJujAj/1e87becf5c6e831194ce19724b08eebc0/c56_lb_182_600_t10.m3u8?key=046e9ae13fedccb0eab97af9d7de28ba0&dis_t=1651215070&z=akm_oversea&pv=0.2																								
-品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/8LaqBbV5e_FHYEq5fINDTus6N6XAmV79kBV15DQL7FqCZ8NzoRvjv8iLkoJ92LekJN5IUyPwtfbjSZRctTV1rjuvkll-BkSqrLHMhMOQefCQFDIJAZDwxv7EwqM-ibWz/1df232427441b584e5f1832ad934c5f42/c56_lb_182_600_t10.m3u8?key=064f936d071d356ebc0015fe342319097&dis_t=1660975800&z=akm_oversea&pv=0.2																								
-李子柒美食,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8																								
-爱美食,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt#http://111.11.123.28:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630																								
-老广的味道,http://ax89.vip/yy.php?id=1382735565#http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/1sHOZtjdtQeqd2neLHoWsL8Qu_9XSa8SBk069ouyYsfmsuqnTwk-t8y3ysMzjVopY2swzbeY2u6VM-xENkmxpbwxZpYHqUP6bn_mWW_4H1nTn3IiLjxMAocUo_HKXTUS/14454fcc378fab128570f7a7c0667dfc9/c56_lb_182_600_t10.m3u8?key=0cad0721217f6a11ad09559b935b3cf79&dis_t=1645540582&z=akm_oversea&pv=0.2																								
-一城一味,http://ax89.vip/yy.php?id=1382735559																								
-中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8																								
-中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8																								
-中华美食,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd																								
-美食中国,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/828304ee9a0e4c1f97a1d2f6986b1290/1200.m3u8																								
-茶频道,http://cfss.cc/ds/bst.php?id=Cf-79																								
-寻味顺德,http://ax89.vip/yy.php?id=1382736844																								
-																								
-Food-2/美食,#genre#																								
-Food Network,https://epg.pw/stream/4e830692d17255a7aa74901d8bac25b3c5817a83596ff32413c270c4b366bec5.ctv#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208694#http://iptv12k.com:35461/live/test167/12345/638.m3u8																								
-Food Network2,https://epg.pw/stream/6c7ccd0e30abffacd0ae5c497b3f79e68743b17152470c74ab88ce30893c753e.ctv#mitv://generationnexxxt.com:19806/028757a755ae47908e90be03562077f9#http://iptvtree.net:8080/F11682/82ca5fbd/196454																								
-i-Food,https://ft-ifood-roku.amagi.tv/playlist288p.m3u8																								
-QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8																								
-Taste-Mate,https://tmint-aus-samsungau.amagi.tv/playlist.m3u8																								
-TasteMade Travel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8																								
-Bon appetit,https://bonappetit-samsung.amagi.tv/playlist.m3u8																								
-Cooking Panda,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46																								
-Cut-upNcook,https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8																								
-Chef Champion,https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8																								
-Chef Roc Show,https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8																								
-Food 52,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8																								
-Gusto TV,https://d3cajslujfq92p.cloudfront.net/playlist.m3u8																								
-Hungry,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8																								
-iFood.TV,https://ft-ifood-roku.amagi.tv/playlist.m3u8																								
-America's Test Kitchen,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=																								
-Food TV,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=																								
-Gordon Ramsay's Kitchen,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e99f4423e067bd6df6903&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=294&terminate=false&userId=																								
-So Yummy!,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8																								
-Tastemade,https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8																								
-Tastemade Australia,https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8																								
-Tastemade Brasil,https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8																								
-Tastemade en Español,https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8																								
-Tastemade France,https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8																								
-Tastemade Travel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8																								
-BBC Food,https://epg.pw/stream/5e293cf197c64ff88479f2ee34dca9e5f76180c57ba2cffced953978852427f9.m3u8#https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8																								
-Hell's Kitchen,https://d3216p0n08c2mb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-Canada-prod/playlist.m3u8																								
-Kitchen Stories,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7198fd46-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D																								
-																								
-Knowledge/知识,#genre#																								
-LIVE互动英语,P2p://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827#p2p://generationnexxxt.com:19806/d9fc96ab677e4518ac96adbc8a7a941a#http://player.m3u8cdn.live/live/ytdx/ytdx.php?tid=gtlive&id=english#http://player.m3u8cdn.live/live/ytdx/ytdx.php?tid=gtlive2&id=eltv_hd																								
-中國交通,http://ct.whosayssowhat.top:4022/udp/239.77.1.249:5146#http://ct.whosayssowhat.top:4022/udp/239.77.1.249:5146																								
-中华特产,http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8																								
-数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8																								
-Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8																								
-四海釣魚,http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8#http://139.9.188.172:5678/sxg.php?id=shdy_4000#http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8#http://bytedance.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8																								
-快乐垂钓,https://epg.pw/stream/c865ff9483c1ba81ffb3ad08f7f5a6495e0a6c6ae9e3961cb4745c74031b695e.ctv#https://epg.pw/stream/c08bde786cad061027689a3a00e3140205cafc72a723cb08819e3d17622ca951.ctvhttp://cfss.cc/ds/bst.php?id=Cf-47#http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls#https://live.v1.mk/api/bestv.php?id=klcd8m/8000000#http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8																								
-HGTV,P2p://generationnexxxt.com:19806/536caff87a01411db023c2f847fdbfd9#P2p://generationnexxxt.com:19806/f911cdf5ba074beabb4de2e481853de9																								
-Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/9151ee1396b04233b11586a3154d4e8e																								
-Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f																								
-宠物,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8																								
-Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8#https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8																								
-Dog Tv,http://sukitam.bccdn.xyz:80/45873482894pw/94852932845Pw/138																								
-生命脉动,http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8																								
-飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8																								
-飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8																								
-动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8																								
-人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8																								
-自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8																								
-探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8																								
-大太平洋,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8																								
-这里是中国1,https://cdnv.rt.com/doc-files/filmy/pobedit-bednost-opit-kitaya/pobedit-bednost-opit-kitaya_1.mp4																								
-这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4																								
-																								
-																								
-Sports/体育,#genre#																								
-Astro SuperSport 1,https://stream.freetv.fun/astro-supersport-1.ctv
-Astro SuperSport 2,https://stream.freetv.fun/astro-supersport-2-2.ctv
-Astro SuperSport 3,https://stream.freetv.fun/astro-supersport-3-2.ctv#http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-Astro SuperSport 4,https://stream.freetv.fun/astro-supersport-4-2.ctv
-Astro SuperSport 5,https://stream.freetv.fun/astro-supersport-5-1.ctv
-						
-Arena-1,mitv://135.148.104.228:19806/c046c74b43184a9bac5b0e402944aca5#mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5																								
-Arena-2,http://62.210.209.242:2095/live/metatvpro/888909/26306.ts?token=GEFeAEAMEQ5EAghSBAAHAFZSUApUBgYCDlEHUFFXVFJUBQ5ZAQUAVwURFUcSTBRRUgg6WwEVC1MBAwAETRQXEAYRaQhXRgkWVQQOXFUaShZHDAhXRw0AVw8IBQFXAlFRT0FGCFdGCRZXCwhcWBpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1ABUAQRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRQEUgRWQdLZgYOVghRUBEMXQtEE1sVBgACQxpADgwNXxVcFmxED1cbX0MKVQULUEdP#https://dispatch.ulivetv.net/v/live/cg4vigttsr0g.m3u8?stream_id=cg4vigttsr0g&timestamp=1686363320&rand=clwUXaWaW0&uuid=9b647b3816b2a66a&from=web&sign=f26a720ac30b707f8355840b22c2f1f0#P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts#http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8																								
-																								
-beIN Sports 1,http://103.45.68.47/gy/gy611/xsj.php?id=bein-sports1																								
-beIN Sports 2,http://103.45.68.47/gy/gy611/xsj.php?id=bein-sports2																								
-beIN Sports 3,http://103.45.68.47/gy/gy611/xsj.php?id=bein-sports3																								
-先锋乒羽																								
-																								
-爱尔达体育-1,P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b																								
-爱尔达体育-1,mitv://generationnexxxt.com:19806/25cf5d7d2942460c8be92b8b53b0acf7																								
-爱尔达体育-1,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3																								
-																								
-爱尔达体育-2,mitv://generationnexxxt.com:19806/709146dfcf00479ba6e580e457df1e52																								
-爱尔达体育-2,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b																								
-爱尔达体育-2,																								
-愛爾達體育3台,mitv://generationnexxxt.com:19806/4649f915eaf846979abd59635607d671																								
-愛爾達體育3台,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9																								
-愛爾達體育4台,mitv://generationnexxxt.com:19806/a340f1bb3a12464f9833fe116a3a8009																								
-ELTA體育1,http://103.45.68.47/gy/gy611/xsj.php?id=eleven-sport1																								
-ELTA體育1,http://103.45.68.47/gy/gy611/xsj.php?id=elta-sport1																								
-																								
-ELTA體育2,http://103.45.68.47/gy/gy611/xsj.php?id=eleven-sport2																								
-ELTA體育2,http://103.45.68.47/gy/gy611/xsj.php?id=elta-sport2																								
-																								
-ELTA體育3,http://103.45.68.47/gy/gy611/xsj.php?id=elta-sport3																								
-ELTA體育3																								
-纬来体育台,http://103.45.68.47/gy/gy611/xsj.php?id=videoland-sport																								
-NBA-1,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1																								
-NBA-2																								
-NBA-3																								
-																								
-NBA-5																								
-NBA-6																								
-ELEVEN-1,mitv://generationnexxxt.com:19806/a73c49e984ae42529da0860704f1ea55																								
-ELEVEN-1,																								
-ELEVEN-2,mitv://generationnexxxt.com:19806/bba09f3eb6ea42d2b9c261f172e0127b																								
-ELEVEN-2,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a																								
-ELEVEN-2,rtmp://119.81.124.89:1935/sat/tv741																								
-智林体育台																								
-FOXSport1																								
-FOXSport2																								
-FOXSport3																								
-博斯运动1台																								
-博斯运动2台																								
-博斯無限台																								
-博斯无限二台																								
-Fox Tennis																								
-Fox Golf-1																								
-Fox Golf-2																								
-Fox Golf-2-2																								
-PGA TOUR,mitv://135.148.104.228:19806/64c9fed20006029d16e0744a41d351cd																								
-PGA TOUR,mitv://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd																								
-PGA TOUR																								
-																								
-ONE GOLF																								
-ONE GOLF																								
-WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a																								
-RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8																								
-PTV Sport,http://golive.yn.lt/live/champions/01.m3u8																								
-CCTV5+																								
-CCTV5+http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3																								
-CCTV5																								
-CCTV5http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3																								
-																								
-																								
+Travel/旅遊,#genre#
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+sbtv,https://epg.pw/stream/8912d126333dd67b4dcee543f479ee64edc1a405ececc7b604cd88e690f12d4b.m3u8
+HTB北海道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+靖天國際,http://103.45.68.47/gy/gy611/xsj.php?id=jtgj
+靖天國際,http://zuozhus.site/live/Smartv.php?id=jingtianintl_twn
+大陸尋奇,http://194.87.101.118/live.m3u8?c=3
+BBC Travel
+HOY TV
+HOY TV
+HOY TV
+中天美食旅游
+樂視旅遊攻略
+爱尔达娛樂,https://sc2024.stream-link.org/live/12112119635.php?id=m736amv#http://player.m3u8cdn.live/live/ytdx/ytdx.php?tid=gtlive&id=eltaent
+愛爾達生活旅遊,https://sc2024.stream-link.org/live/12112119635.php?id=m964pmb
+亚洲旅游台,P2p://generationnexxxt.com:19806/816c4598cfb641f5845b90a3bc772f1c
+亚洲旅游台,https://sxj.btjson.us.kg/histar.php?id=asia-travel
+亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+亞洲旅遊台,https://sc2024.stream-link.org/live/12112119635.php?id=m262wme
+亚洲旅游台-2,https://epg.pw/stream/ae6efba421b2efd4d412966745c66cf425cb29ebcfe10c8ab1010a12d245520a.ctv#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
+EYETV旅游,P2p://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e#http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94#http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+EYE TV旅遊,mitv://generationnexxxt.com:19806/87f3203d6e0549aca283b920851a335a
+EYE TV旅游台-2,http://103.45.68.47/gy/gy611/xsj.php?id=eye-travel
+EYE TV旅遊台,p2p://108.181.32.169:14429/642524030003a5b2ea6e2e6f6efc45a1
+EYE TV旅遊台1,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8#http://zuozhus.site/live/Smartv.php?id=eyetvtravel_twn
+EYE TV旅遊台-2,P2p://generationnexxxt.com:19806/055ce8e749c1425c87950f93d0bf9bcd
+ELTA 生活旅游台,https://sxj.btjson.us.kg/histar.php?id=elta-lifetravel
+民視旅遊台,https://sxj.btjson.us.kg/histar.php?id=ftv-travel#https://sc2024.stream-link.org/live/12112119635.php?id=m515fmv
+Globetrotter,https://sc2024.stream-link.org/live/12112119635.php?id=m939emw
+Global Treker,https://sc2024.stream-link.org/live/12112119635.php?id=m929tms
+宜昌旅游,https://epg.pw/stream/257816568cc80afe4f15ea7c55110ee3f323a74ad270f73c68eb0caf5935948d.m3u8
+CGTN紀錄頻道
+Disvovery Asia-1,http://iptv12k.com:35461/live/test167/12345/628.m3u8
+Disvovery Asia-2,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+
+
+緯來日本1,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2#mitv://generationnexxxt.com:19806/f8f4f06d93c14ef995a4ef158883170c
+緯來日本2,http://zuozhus.site/live/Smartv.php?id=videolandjapan#http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption
+緯來日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8#http://103.45.68.47/gy/gy611/xsj.php?id=videoland-japan
+緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+
+龙华日韩
+龙华日韩
+国兴卫视,P2p://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20#http://103.45.68.47/gy/gy611/xsj.php?id=gold-sun-tv#mitv://generationnexxxt.com:19806/c6671fccbeaf4507be73153d8c00e0bd
+靖天日本台,mitv://generationnexxxt.com:19806/caaf5e874ae1495fa336a280e3459143
+靖天日本台,P2p://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
+靖天日本台
+环球旅游
+CEC旅游
+東京淺草
+東京淺草
+
+
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
+
+远方的家,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
+美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
+美丽中国自然,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
+航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+航拍中国第三季,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+
+
+
+
+
+TLC旅遊生活,http://iptv12k.com:35461/live/test167/12345/639.m3u8
+
+Travel Channel,http://iptv12k.com:35461/live/test167/12345/635.m3u8
+
+GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+Gloabal Travel
+
+
+
+Journey,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+
+
+
+
+
+Food-1/美食,#genre#
+亞洲美食AFN,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=534440&extension=ts&play_token=SEewjTli8t#mitv://generationnexxxt.com:19806/a2e6364570ad45a2862e0a42c7e2524d
+亞洲美食AFN,https://sxj.btjson.us.kg/histar.php?id=asian-food-network
+亞洲美食AFN,P2p://generationnexxxt.com:19806/8a565409a26044bead7e66ac44c894f0#P2p://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
+非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0#mitv://generationnexxxt.com:19806/26b516cb871e4984b9cf04166b42dc02#p2p://generationnexxxt.com:19806/3866164cb9514601bc6c7eb9a775aa23#https://epg.pw/stream/3d70065a1d32bf3e9c1592d81e2cccc61cf6501b4b0e4339211cbfd46cdf9067.ctv
+美食星球,https://sxj.btjson.us.kg/histar.php?id=food-planet#P2p://generationnexxxt.com:19806/60c698afbda7443998a2b9fd5c00c54d
+美食星球-2,http://zuozhus.site/live/Smartv.php?id=foodplanet_twn#https://z88.ubtvfans.com/live/rx1/3073/a164ae4bc15e27b3e0ee7f221c908fd3/index.m3u8#http://103.45.68.47/gy/gy611/xsj.php?id=food-planet
+觅食者,http://ax89.vip/yy.php?id=1382736841
+探秘中华美食,http://ax89.vip/yy.php?id=1354930954
+品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/ScYGYjfaQwU8vpqEOH848lRJcXTFbFScsCCR0lIDG8mqCWS8nZBAhRvdqCqrSPShvLqu5vhYtIkMYKg0UnIExbbsMlHd0z3QSLMng5Etwd0Zq1lBo8D9y5kMMexJujAj/1e87becf5c6e831194ce19724b08eebc0/c56_lb_182_600_t10.m3u8?key=046e9ae13fedccb0eab97af9d7de28ba0&dis_t=1651215070&z=akm_oversea&pv=0.2
+品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/8LaqBbV5e_FHYEq5fINDTus6N6XAmV79kBV15DQL7FqCZ8NzoRvjv8iLkoJ92LekJN5IUyPwtfbjSZRctTV1rjuvkll-BkSqrLHMhMOQefCQFDIJAZDwxv7EwqM-ibWz/1df232427441b584e5f1832ad934c5f42/c56_lb_182_600_t10.m3u8?key=064f936d071d356ebc0015fe342319097&dis_t=1660975800&z=akm_oversea&pv=0.2
+李子柒美食,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+爱美食,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt#http://111.11.123.28:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630
+老广的味道,http://ax89.vip/yy.php?id=1382735565#http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/1sHOZtjdtQeqd2neLHoWsL8Qu_9XSa8SBk069ouyYsfmsuqnTwk-t8y3ysMzjVopY2swzbeY2u6VM-xENkmxpbwxZpYHqUP6bn_mWW_4H1nTn3IiLjxMAocUo_HKXTUS/14454fcc378fab128570f7a7c0667dfc9/c56_lb_182_600_t10.m3u8?key=0cad0721217f6a11ad09559b935b3cf79&dis_t=1645540582&z=akm_oversea&pv=0.2
+一城一味,http://ax89.vip/yy.php?id=1382735559
+中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8
+中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
+中华美食,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd
+美食中国,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/828304ee9a0e4c1f97a1d2f6986b1290/1200.m3u8
+茶频道,http://cfss.cc/ds/bst.php?id=Cf-79
+寻味顺德,http://ax89.vip/yy.php?id=1382736844
+
+Food-2/美食,#genre#
+Food Network,http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A9:BE:21&stream=571179&extension=ts&play_token=EKf4y1UNnt#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208694#http://iptv12k.com:35461/live/test167/12345/638.m3u8
+Food Network2,https://epg.pw/stream/6c7ccd0e30abffacd0ae5c497b3f79e68743b17152470c74ab88ce30893c753e.ctv#mitv://generationnexxxt.com:19806/028757a755ae47908e90be03562077f9#http://iptvtree.net:8080/F11682/82ca5fbd/196454
+i-Food,https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
+QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8
+Taste-Mate,https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+TasteMade Travel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+Bon appetit,https://bonappetit-samsung.amagi.tv/playlist.m3u8
+Cooking Panda,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+Cut-upNcook,https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
+Chef Champion,https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
+Chef Roc Show,https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
+Food 52,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
+Gusto TV,https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+Hungry,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+iFood.TV,https://ft-ifood-roku.amagi.tv/playlist.m3u8
+America's Test Kitchen,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=
+Food TV,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
+Gordon Ramsay's Kitchen,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e99f4423e067bd6df6903&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=294&terminate=false&userId=
+So Yummy!,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+Tastemade,https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
+Tastemade Australia,https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+Tastemade Brasil,https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+Tastemade en Español,https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+Tastemade France,https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+Tastemade Travel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+BBC Food,https://epg.pw/stream/5e293cf197c64ff88479f2ee34dca9e5f76180c57ba2cffced953978852427f9.m3u8#https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8
+Hell's Kitchen,https://d3216p0n08c2mb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-Canada-prod/playlist.m3u8
+Kitchen Stories,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7198fd46-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+Knowledge/知识,#genre#
+LIVE互动英语,P2p://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827#p2p://generationnexxxt.com:19806/d9fc96ab677e4518ac96adbc8a7a941a#http://player.m3u8cdn.live/live/ytdx/ytdx.php?tid=gtlive&id=english#http://player.m3u8cdn.live/live/ytdx/ytdx.php?tid=gtlive2&id=eltv_hd
+中國交通,http://ct.whosayssowhat.top:4022/udp/239.77.1.249:5146#http://ct.whosayssowhat.top:4022/udp/239.77.1.249:5146
+中华特产,http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8
+数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8
+Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8
+四海釣魚,http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8#http://139.9.188.172:5678/sxg.php?id=shdy_4000#http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8#http://bytedance.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
+快乐垂钓,https://epg.pw/stream/c865ff9483c1ba81ffb3ad08f7f5a6495e0a6c6ae9e3961cb4745c74031b695e.ctv#https://epg.pw/stream/c08bde786cad061027689a3a00e3140205cafc72a723cb08819e3d17622ca951.ctvhttp://cfss.cc/ds/bst.php?id=Cf-47#http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls#https://live.v1.mk/api/bestv.php?id=klcd8m/8000000#http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+HGTV,P2p://generationnexxxt.com:19806/536caff87a01411db023c2f847fdbfd9#P2p://generationnexxxt.com:19806/f911cdf5ba074beabb4de2e481853de9
+Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/9151ee1396b04233b11586a3154d4e8e
+Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f
+宠物,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8#https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8
+Dog Tv,http://sukitam.bccdn.xyz:80/45873482894pw/94852932845Pw/138
+生命脉动,http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
+飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
+人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+大太平洋,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
+这里是中国1,https://cdnv.rt.com/doc-files/filmy/pobedit-bednost-opit-kitaya/pobedit-bednost-opit-kitaya_1.mp4
+这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4
+
+
+Sports/体育,#genre#
+Astro Arena HD,https://sxj.btjson.us.kg/histar.php?id=astro-arena-hd
+Astro Arena 2,https://sxj.btjson.us.kg/histar.php?id=astro-arena2
+Astro SuperSport,https://sxj.btjson.us.kg/histar.php?id=super-sports1
+Astro SuperSport 2,https://sxj.btjson.us.kg/histar.php?id=super-sports2
+Astro SuperSport 3,https://sxj.btjson.us.kg/histar.php?id=super-sports3
+Astro SuperSport 4,https://sxj.btjson.us.kg/histar.php?id=super-sports4
+Arena Bola,https://sxj.btjson.us.kg/histar.php?id=arena-bola
+Arena Bola2,https://sxj.btjson.us.kg/histar.php?id=arena-bola2
+beIN Sports,https://sxj.btjson.us.kg/histar.php?id=beinsports
+beIN Sports 2,https://sxj.btjson.us.kg/histar.php?id=beinsports2
+beIN Sports 3,https://sxj.btjson.us.kg/histar.php?id=beinsports3
+ELTA 体育-1,https://sxj.btjson.us.kg/histar.php?id=elta-sport1
+ELTA 体育-2,https://sxj.btjson.us.kg/histar.php?id=elta-sport2
+ELTA 体育-3,https://sxj.btjson.us.kg/histar.php?id=elta-sport3
+ELTA体育4台,https://sxj.btjson.us.kg/histar.php?id=elta-sport4
+博斯网球,https://sxj.btjson.us.kg/histar.php?id=sportcast-tennis
+博斯运动-1,https://sxj.btjson.us.kg/histar.php?id=sportcast1
+博斯运动-2,https://sxj.btjson.us.kg/histar.php?id=sportcast2
+博斯无限,https://sxj.btjson.us.kg/histar.php?id=sportcast-wx
+博斯高球-1,https://sxj.btjson.us.kg/histar.php?id=sportcast-golf1
+博斯高球-2,https://sxj.btjson.us.kg/histar.php?id=sportcast-golf2
+博斯魅力,https://sxj.btjson.us.kg/histar.php?id=sportcast-meili
+ESPN,https://sxj.btjson.us.kg/histar.php?id=espn
+ESPN 2,https://sxj.btjson.us.kg/histar.php?id=espn2
+ESPN 3,https://sxj.btjson.us.kg/histar.php?id=espn3
+ESPN 4,https://sxj.btjson.us.kg/histar.php?id=espn4
+myTV SUPER直播足球1台,https://sxj.btjson.us.kg/histar.php?id=mytv-super-soccer1
+myTV SUPER直播足球2台,https://sxj.btjson.us.kg/histar.php?id=mytv-super-soccer2
+myTV SUPER直播足球3台,https://sxj.btjson.us.kg/histar.php?id=mytv-super-soccer3
+myTV SUPER直播足球4台,https://sxj.btjson.us.kg/histar.php?id=mytv-super-soccer4
+myTV SUPER 18,https://sxj.btjson.us.kg/histar.php?id=mytvsuper-18
+纬来体育,https://sxj.btjson.us.kg/histar.php?id=videoland-sport
+NBA,https://sxj.btjson.us.kg/histar.php?id=nba
+WWE,https://sxj.btjson.us.kg/histar.php?id=wwe
+DAZN 1,https://sxj.btjson.us.kg/histar.php?id=eleven-sport1
+DAZN 2,https://sxj.btjson.us.kg/histar.php?id=eleven-sport2
+Eurosports-1,https://sxj.btjson.us.kg/histar.php?id=eurosports-1
+SPOTV,https://sxj.btjson.us.kg/histar.php?id=spotv
+SPOTV-2,https://sxj.btjson.us.kg/histar.php?id=spotv2
+时尚运动 X,https://sxj.btjson.us.kg/histar.php?id=ssydx
+GINX Esports TV,https://sxj.btjson.us.kg/histar.php?id=ginx-esports
+Tech Storm,https://sxj.btjson.us.kg/histar.php?id=tech-storm
+TRACE Sport Stars,https://sxj.btjson.us.kg/histar.php?id=trace-sport-stars
+W-Sport,https://sxj.btjson.us.kg/histar.php?id=w-sport
+PremierSports,https://sxj.btjson.us.kg/histar.php?id=premiersports
+智林体育台,https://sxj.btjson.us.kg/histar.php?id=zl-sports
+Now Sports 641,https://sxj.btjson.us.kg/histar.php?id=now-sports641
+Now NBA,https://sxj.btjson.us.kg/histar.php?id=now-nba
+Now Sports精选,https://sxj.btjson.us.kg/histar.php?id=now-sports-prime
+Now Sports 1,https://sxj.btjson.us.kg/histar.php?id=now-sports-1
+Now Sports 2,https://sxj.btjson.us.kg/histar.php?id=now-sports-2
+Now Sports 3,https://sxj.btjson.us.kg/histar.php?id=now-sports-3
+Now Sports 4,https://sxj.btjson.us.kg/histar.php?id=now-sports-4
+Now Sports 5,https://sxj.btjson.us.kg/histar.php?id=now-sports-5
+Now Sports 6,https://sxj.btjson.us.kg/histar.php?id=now-sports-6
+Now Sports 7,https://sxj.btjson.us.kg/histar.php?id=now-sports-7
+Now Sports Plus,https://sxj.btjson.us.kg/histar.php?id=now-sports-plus
+Now Sports 英超1,https://sxj.btjson.us.kg/histar.php?id=now-sports-premier-league1
+Now Sports 英超2,https://sxj.btjson.us.kg/histar.php?id=now-sports-premier-league2
+Now Sports 英超3,https://sxj.btjson.us.kg/histar.php?id=now-sports-premier-league3
+Now Sports 英超4,https://sxj.btjson.us.kg/histar.php?id=now-sports-premier-league4
+Now Sports 英超5,https://sxj.btjson.us.kg/histar.php?id=now-sports-premier-league5
+Now Sports 英超6,https://sxj.btjson.us.kg/histar.php?id=now-sports-premier-league6
+Now beIN SPORTS 1,https://sxj.btjson.us.kg/histar.php?id=now-bein-sports1
+Now beIN SPORTS 2,https://sxj.btjson.us.kg/histar.php?id=now-bein-sports2
+Now beIN SPORTS 3,https://sxj.btjson.us.kg/histar.php?id=now-bein-sports3
+Now 668,https://sxj.btjson.us.kg/histar.php?id=now-668
+Now Golf 2,https://sxj.btjson.us.kg/histar.php?id=now-golf2
+Now Golf 3,https://sxj.btjson.us.kg/histar.php?id=now-golf3
 																								
 																								
 																								
