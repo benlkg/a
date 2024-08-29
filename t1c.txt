@@ -1,6 +1,6 @@
 马来西亚,#genre#
 AEC-1,http://vo01.mohdtv.com:8880/voby5019/58746247/1723?WithCaption
-AEC-2,http://yesimes.oknirvana.club:8880/live/TNwC28ZMED/aG9TWtVfqy/1723.tsWithCaption
+AEC-2,http://yesimes.oknirvana.club:8880/live/TNwC28ZMED/aG9TWtVfqy/1723.ts?WithCaption
 AEC-3,http://vo01.mohdtv.com:8880/voby5019/58746247/1723
 AEC-4,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ba32bccb4c01a41073cbcfbe837805be
 AEC-5,https://stream1.freetv.fun/aec-1.m3u8
@@ -10,7 +10,8 @@ AEC-8,p3p://108.181.20.159:34258/65943bd3000175aa5c3bad9e27431145
 AEC-9,p3p://108.181.20.159:34258/6533b8de000efc1be33df56933cc5afe
 AEC-10,p3p://108.181.20.159:34258/6557a4a6000efa206f8e50c360a97728
 AEC-11,https://test.zapi.us.kg/?id=astro-aec
-AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+AEC-12,P2p://108.181.20.159:34258/65943bd3000175aa5c3bad9e27431145#P2p://108.181.20.159:34258/6533b8de000efc1be33df56933cc5afe#P2p://108.181.20.159:34258/6557a4a6000efa206f8e50c360a97728
+AEC-13(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
 TV3,P2p://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
