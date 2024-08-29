@@ -1,17 +1,17 @@
 Mal/马来,#genre#																								
-AEC-1,http://vo01.mohdtv.com:8880/voby5019/58746247/1723?WithCaption																								
-AEC-2,http://yesimes.oknirvana.club:8880/live/TNwC28ZMED/aG9TWtVfqy/1723.tsWithCaption																								
-AEC-3,http://vo01.mohdtv.com:8880/voby5019/58746247/1723																								
-AEC-4,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ba32bccb4c01a41073cbcfbe837805be																								
-AEC-5,https://stream1.freetv.fun/aec-1.m3u8																								
-AEC-6,https://stream1.freetv.fun/5e65c6a0561a73b2c845aa208c19f825c5b2528f67524a13a4fbdb4f1caee59c.m3u8																								
-AEC-7,p3p://108.181.20.159:34258/65d2076700055a834d9db070558f658e																								
-AEC-8,p3p://108.181.20.159:34258/65943bd3000175aa5c3bad9e27431145																								
-AEC-9,p3p://108.181.20.159:34258/6533b8de000efc1be33df56933cc5afe																								
-AEC-10,p3p://108.181.20.159:34258/6557a4a6000efa206f8e50c360a97728																								
-AEC-11,https://test.zapi.us.kg/?id=astro-aec																								
-AEC-11																								
-AEC-12(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8																								
+AEC-1,http://vo01.mohdtv.com:8880/voby5019/58746247/1723?WithCaption
+AEC-2,http://yesimes.oknirvana.club:8880/live/TNwC28ZMED/aG9TWtVfqy/1723.ts?WithCaption
+AEC-3,http://vo01.mohdtv.com:8880/voby5019/58746247/1723
+AEC-4,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ba32bccb4c01a41073cbcfbe837805be
+AEC-5,https://stream1.freetv.fun/aec-1.m3u8
+AEC-6,https://stream1.freetv.fun/5e65c6a0561a73b2c845aa208c19f825c5b2528f67524a13a4fbdb4f1caee59c.m3u8
+AEC-7,p3p://108.181.20.159:34258/65d2076700055a834d9db070558f658e
+AEC-8,p3p://108.181.20.159:34258/65943bd3000175aa5c3bad9e27431145
+AEC-9,p3p://108.181.20.159:34258/6533b8de000efc1be33df56933cc5afe
+AEC-10,p3p://108.181.20.159:34258/6557a4a6000efa206f8e50c360a97728
+AEC-11,https://test.zapi.us.kg/?id=astro-aec
+AEC-12,P2p://108.181.20.159:34258/65943bd3000175aa5c3bad9e27431145#P2p://108.181.20.159:34258/6533b8de000efc1be33df56933cc5afe#P2p://108.181.20.159:34258/6557a4a6000efa206f8e50c360a97728
+AEC-13(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-1,https://test.zapi.us.kg/?id=astro-huaheedai#http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption																								
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8																								
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d																								
@@ -486,7 +486,65 @@ Dog Tv,http://sukitam.bccdn.xyz:80/45873482894pw/94852932845Pw/138
 这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4																								
 																								
 																								
-Sports/体育,#genre#																								
+Sports/体育,#genre#	
+Astro supersport1,P2p://108.181.20.159:34258/5ff7e55400052a7dcf48ff687a820e5c
+Astro supersport2,P2p://108.181.20.159:34258/5fded34c0008475b6d5be45731d55d06
+Astro supersport3,P2p://108.181.20.159:34258/5fded3620008eeb26d5c3a725b5a1adb
+Astro supersport4,P2p://108.181.20.159:34258/5fded3740003f8816d5c7f7d3e15547d
+W-Sport,P2p://108.181.20.159:34258/620c702d0008c6faef6d8abc762a3edd
+HUB premier1,P2p://108.181.20.159:34258/64bbb3db0000179e0e6caac365cb5ea7
+HUB premier2,P2p://108.181.20.159:34258/64bbb44c0002cfb40e6e64de0f652363
+HUB premier3,P2p://108.181.20.159:34258/64bbb4a20003920c0e6fb5005f03654a
+HUB premier4,P2p://108.181.20.159:34258/64bbb4e7000d13560e70c4f7058227b2
+HUB premier5,P2p://108.181.20.159:34258/64bbb54100028ca30e7221d64fd04cbb
+HUB premier6,P2p://108.181.20.159:34258/64bbb5910007bd500e735baa4dc0380f
+欧洲体育,P2p://108.181.20.159:34258/5fe6fc92000bb0078d3cad5824d31e8a
+NBA,P2p://108.181.20.159:34258/655bb7bb0005ae307f78ae416ea07506
+NBA,P2p://108.181.20.159:34258/640cfe24000bcb1663f9dd631ab54798
+SpoTV,P2p://108.181.20.159:34258/656f74ac00097859cc92688069041bb5
+SpoTV,P2p://108.181.20.159:34258/6557c03700012bb96ff9fba420d7403c
+SpoTV 2,P2p://108.181.20.159:34258/656f7589000dd70dcc95c8e80c56468e
+Bein Sports,P2p://108.181.20.159:34258/5fe6fd5000061a148d3f921a327e3828
+Bein Sp Max,P2p://108.181.20.159:34258/5fe6c7e800036a868c6ef32902134116
+GOLF,P2p://108.181.20.159:34258/5fe7ed4d000b808990e907c90672381a
+Bein Sport 1,P2p://108.181.20.159:34258/65accbf8000b968dbc2e3c7d4e4b71c8
+Bein Sport 1,P2p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
+Bein Sport 1,P2p://108.181.20.159:34258/64c7d35f000973423dc771d134850696
+Bein Sport 2,P2p://108.181.20.159:34258/65accd1f000870c2bc32bc08132a4f49
+Bein Sport 2,P2p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
+Bein Sport 2,P2p://108.181.20.159:34258/64c7d403000811b23dc9f21867c96847
+Bein Sport 3,P2p://108.181.20.159:34258/65accd92000b963dbc347e0f755b1ee0
+Bein Sport 3,P2p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
+Bein Sport 3,P2p://108.181.20.159:34258/64c7d459000229c83dcb408552136006
+
+NowSports1,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=GMj-Ikifg-DkrFd
+NowSports2,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=DeS-jepEw-o9jTg
+NowSports3,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=ez9-Ym6eD-nzoLn
+NowSports4,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=uhF-EKEp3-fbWeF
+NowSports5,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=1DB-AAg9E-a6812
+NowSports6,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=N9d-DZ0tZ-bct85
+NowSports7,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=BDT-ucHIi-mTHrB
+NowSports641,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=D49-R1fRV-Aa3Rb
+NowSports英超1台,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=UWP-87D0E-nU8c0
+NowSports英超1台,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=z6o-RoXCh-gRBhi
+Now630体育台,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=PhI-wlraz-Gs8PX
+Now630体育台,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=C0l-Pg7Dt-ElMJ5
+NBA TV,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=oew-yJIDT-OwFRP
+NBA TV,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=CDZ-Nws2S-vT1I4
+NBA TV,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=Tel-ewOw5-pDb49
+NBA TV,http://www.238311.top:2302/views/proxy/cibn/联强科技-de22f98cbd9b89c49257b23451da2813.php?id=qdE-mx0gb-KE4D2
+Now Sports 1,P2p://108.181.20.159:34258/63ed464b000b911be8145d035c4e0f21
+Now Sports 2,P2p://108.181.20.159:34258/63ed46be0002b99be8161bfd62d87e90
+Now Sports 3,P2p://108.181.20.159:34258/63ed4715000c1bffe81772386f5b27f7
+Now Sports 4,P2p://108.181.20.159:34258/63ed478e000a98f2e8194a7c2bdc7fe6
+Now Sports 5,P2p://108.181.20.159:34258/63ed98c2000122f4e9567b333a74077a
+Now Sports 6,P2p://108.181.20.159:34258/63ed98d90002f8f6e956d5822ff208b1
+Now Sports 7,P2p://108.181.20.159:34258/63ed990600010efde95784d4529f16d2
+Now Sports Prime,P2p://108.181.20.159:34258/644edbcc0004d5a765428da71f967a86
+NowSports plus,P2p://108.181.20.159:34258/65a442ed000e5f029ad7146558606385
+NowSports 英超,P2p://108.181.20.159:34258/65acf008000b26e4bcbb1adc24476b3f
+
+
 Astro Arena HD,https://test.zapi.us.kg/?id=astro-arena-hd																								
 Astro Arena 2,https://test.zapi.us.kg/?id=astro-arena2																								
 Astro SuperSport,https://test.zapi.us.kg/?id=super-sports1																								
