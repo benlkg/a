@@ -16,7 +16,7 @@
         </div>
     </center>
     <script>
-        const manifestUri = "https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8";
+        const manifestUri = "https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd";
         async function init() {
             const video = document.getElementById('video');
             const ui = video['ui'];
