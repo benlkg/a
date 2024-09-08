@@ -27,7 +27,7 @@
             player.configure({
                 drm: {
                     "clearKeys": {
-                        '06282157da4e8f97623a70ed017fad10': '8da72ca8501a4deb4bfc381fe1737ef4'
+                        '01eb1168208940f8b270b4e0994570e7': 'e75165d38b909567c03353ae4b27b6f8'
                     }
                 }
             });
