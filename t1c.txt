@@ -594,13 +594,15 @@ SUN TV,mitv://generationnexxxt.com:19806/e2f91d24ea26412292bd273186b41a0a
 爱奇艺,mitv://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f
 全佳,http://free.xiptv.x10.bz/anbo/?id=427
 Astro Arena 2,mitv://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a
-Astro AEC(備),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 Astro AEC(a),P2p://generationnexxxt.com:19806/affbd07abcc049638a0b5af3f2446ed8
+AEC-3,P2p://generationnexxxt.com:19806/c1cd28c52536406f902f6cbab7cded05
 Astro AEC,mitv://generationnexxxt.com:19806/c1cd28c52536406f902f6cbab7cded05
 Astro AEC(备),mitv://generationnexxxt.com:19806/affbd07abcc049638a0b5af3f2446ed8
-AEC,http://free.xiptv.x10.bz/anbo/?id=433
-AEC,http://free.xiptv.x10.bz/anbo/?id=2745
-AEC-13(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+AEC-1,http://yesimes.oknirvana.club:8880/live/D12m2083/das2321sa452/1723.ts
+AEC-2,http://yesimes.oknirvana.club:8880/live/TNwC28ZMED/aG9TWtVfqy/1723.ts?WithCaption
+AEC(aP3p),p3p://108.181.32.169:14521/64124c2d0006c6eba0d384f41e28720a
+AEC(bP3p),p3p://108.181.32.169:14521/64124c700006cf30a0d48aaf01411bf2
+AEC(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 天映频道,mitv://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
 翡翠台,mitv://generationnexxxt.com:19806/66ae0cd4000ad7abe825afa51f42782f
 Astro AOD HD 311,mitv://generationnexxxt.com:19806/d0efbc512dd0465f9be6144fc53cc32a
