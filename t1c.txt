@@ -1,10 +1,12 @@
 Mal/马来,#genre#
-AEC-1,http://php.jdshipin.com/smt.php?id=AEC?WithCaption
+AEC-1,https://stream1.freetv.fun/astro-aec-2.ctv
 AEC-2,https://stream1.freetv.fun/astro-aec-10.ctv
 AEC-3,https://stream1.freetv.fun/astro-aec-8.ctv
 AEC-4,https://stream1.freetv.fun/astro-aec-4.ctv
-AEC-5,http://php.jdshipin.com/smt.php?id=AEC
-AEC-6,https://stream1.freetv.fun/5645edf8b80fa86ec4c1d4f4689a79ee6ee444ffb807bb12aa57533b9478fceb.ctv
+AEC-5,https://stream1.freetv.fun/astro-aec-9.ctv
+AEC-6,https://stream1.freetv.fun/astro-aec-6.ctv
+AEC-7,https://stream1.freetv.fun/5645edf8b80fa86ec4c1d4f4689a79ee6ee444ffb807bb12aa57533b9478fceb.ctv
+AEC-8,http://php.jdshipin.com/smt.php?id=AEC
 AEC-13(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-1,http://free.xiptv.x10.bz/anbo/?id=432#https://test.zapi.us.kg/?id=astro-huaheedai#http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8
