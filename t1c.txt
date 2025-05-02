@@ -7,7 +7,13 @@ AEC-5,https://stream1.freetv.fun/astro-aec-9.ctv
 AEC-6,https://stream1.freetv.fun/astro-aec-6.ctv
 AEC-7,https://stream1.freetv.fun/5645edf8b80fa86ec4c1d4f4689a79ee6ee444ffb807bb12aa57533b9478fceb.ctv
 AEC-8,http://php.jdshipin.com/smt.php?id=AEC
-AEC-13(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+AEC-9,https://stream1.freetv.fun/a20a3e9de6a9867a9ea3029f51c437c3283e637559042fc74b5176669a2bbd6c.ctv
+AEC-10,://stream1.freetv.fun/e6b1bcf8f543bebb313463dd76093d17cca8a49bb3367f7b13673b5d4d48f6c4.ctv
+AEC-11,https://stream1.freetv.fun/33c62874b93b30edbe75913d2cf8b7eb60153951fd5a11523ea1bb94306256e0.ctv
+AEC-12,https://stream1.freetv.fun/bacbe2393c72ae9794096c7c1c9e9fdb162687e1d15aa6112c44f25605e149dc.ctv
+AEC-13,https://stream1.freetv.fun/8e236092a7ded8bd4d64c60ac5752e1dc607d37aa14a2b9313ef2f6130fe08e4.ctv
+
+AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 歡喜臺333-1,http://free.xiptv.x10.bz/anbo/?id=432#https://test.zapi.us.kg/?id=astro-huaheedai#http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8
 歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
