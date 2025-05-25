@@ -1,23 +1,17 @@
 Mal/马来,#genre#
 AEC-1,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcbce79b9a7289&ct=11610650170&tsum=f0568db8709ca3d8f0f613d6bcc82d1d
-AEC-2,https://stream1.freetv.fun/astro-aec-2.ctv
-AEC-3,http://php.jdshipin.com/smt.php?id=AEC
+AEC-2,https://stream1.freetv.fun/3f7ae1e13fad12ee9f5db75195817c7a80843b8b937f2e63429d24029e96abfb.ctv
+AEC-3,http://php.jdshipin.com:8880/smt.php?id=AEC?WithCaption#http://php.jdshipin.com/smt.php?id=AEC
 AEC-4,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcac9b10b6afcf&ct=11610760692&tsum=163774a7679c1cb883b5b631ececb4c7
-AEC-5,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ab96326353923d73453e2aeef08e551e
+AEC-5,https://stream1.freetv.fun/astro-aec-4.ctv
 AEC-6,http://haoyunlai.serv00.net/Smartv-1.php?id=AEC
+AEC-7,https://stream1.freetv.fun/aec-2.ctv
 AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
-歡喜臺333-1,http://free.xiptv.x10.bz/anbo/?id=432#https://test.zapi.us.kg/?id=astro-huaheedai#http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption
-歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8
-歡喜臺333-3,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-歡喜臺333-4,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-歡喜臺333-5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-huaheedai
-歡喜臺333-6,http://cdn.1678520.xyz/xsj.php?id=astro-huaheedai&xl=0#http://zuozhus.site/live/Smartv.php?id=Huahee
-歡喜臺333-7,http://23.26.239.95:3599/xsj.php?id=astro-huaheedai
-歡喜臺333-8,https://phdown.serv00.net/Smartv.php?id=Huahee
-歡喜臺333-9,https://phdown.serv00.net/Smartv.php?id=Huahee_backup
-歡喜臺333-10,http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
-歡喜臺333-11,http://198.16.100.90:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
-歡喜臺333-12,https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Huahee#https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Huahee_backup
-歡喜臺333-13,https://z02.ubtvfans.com/live/rx3/432/fdaa767379839410dd2b934cddf323b1/index.m3u8
-歡喜臺333-14,tvbus://2oJUxjvokVxUP6vJyCi59652oJmLYSUXd2SKK6iNkWVkDojeZvv7zD1D7Q9sq
 
+歡喜臺333-1,http://free.xiptv.x10.bz/anbo/?id=432
+歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption
+歡喜臺333-3,http://php.jdshipin.com/smt.php?id=Huahee
+歡喜臺333-4,http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+
+Astro QJ,https://stream1.freetv.fun/astro-qj-1.ctv
+全佳,http://php.jdshipin.com/smt.php?id=Quanjia
