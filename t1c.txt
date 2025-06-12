@@ -1,17 +1,7 @@
 Mal/马来,#genre#
 AEC-1,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcbce79b9a7289&ct=11610650170&tsum=f0568db8709ca3d8f0f613d6bcc82d1d
-AEC-2,https://stream1.freetv.fun/3f7ae1e13fad12ee9f5db75195817c7a80843b8b937f2e63429d24029e96abfb.ctv
-AEC-3,http://php.jdshipin.com:8880/smt.php?id=AEC?WithCaption#http://php.jdshipin.com/smt.php?id=AEC
-AEC-4,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcac9b10b6afcf&ct=11610760692&tsum=163774a7679c1cb883b5b631ececb4c7
-AEC-5,https://stream1.freetv.fun/astro-aec-4.ctv
-AEC-6,http://haoyunlai.serv00.net/Smartv-1.php?id=AEC
-AEC-7,https://stream1.freetv.fun/aec-2.ctv
-AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+AEC-2,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcac9b10b6afcf&ct=11610760692&tsum=163774a7679c1cb883b5b631ececb4c7
+AEC-3,http://haoyunlai.serv00.net/Smartv-1.php?id=AEC
 
-歡喜臺333-1,http://free.xiptv.x10.bz/anbo/?id=432
-歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption
-歡喜臺333-3,http://php.jdshipin.com/smt.php?id=Huahee
-歡喜臺333-4,http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+Astro QJ,http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mcbce79b9a7289&ct=11610650170&tsum=08c8aac613ab4ff3fbf4d7f8d501ceca
 
-Astro QJ,https://stream1.freetv.fun/astro-qj-1.ctv
-全佳,http://php.jdshipin.com/smt.php?id=Quanjia
