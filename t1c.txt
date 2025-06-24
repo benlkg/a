@@ -4,6 +4,8 @@ AEC-2,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcac9b10b6afcf&ct=1161076069
 AEC-3,http://haoyunlai.serv00.net/Smartv-1.php?id=AEC
 AEC-4,https://stream1.freetv.fun/astro-aec--kt-2.ctv
 AEC-5,https://stream1.freetv.fun/c3fe97bbf2201445214a8263e55188060c41b8b61c60cba31430a6f4b33f6151.ctv
+Astro Aec,p3p://167.114.175.6:55331/65d2076700055a834d9db070558f658e
+Astro Aec2,p2p://167.114.175.6:55331/65d2076700055a834d9db070558f658e
 
 歡喜臺,#genre#
 歡喜臺333-1https://stream1.freetv.fun/astrohuan-xi-tai---kt-1.ctv
@@ -11,7 +13,8 @@ AEC-5,https://stream1.freetv.fun/c3fe97bbf2201445214a8263e55188060c41b8b61c60cba
 歡喜臺333,3https://stream1.freetv.fun/129a699eedc575024526c9b333c53f2e7743c661529010528fee41a3a6b6419e.ctv
 歡喜臺333-4,https://stream1.freetv.fun/8f162a402af1d3465f27761f2b3798c1b38e5ef7c709b7494efee72d0568c048.ctv
 歡喜臺333-6,https://stream1.freetv.fun/astrohuan-xi---wj-1.ctv
-
+Astro 欢喜台,p3p://167.114.175.6:55331/620f05bb0000b01ff985bb62369741c0
+Astro 欢喜台2,p2p://167.114.175.6:55331/620f05bb0000b01ff985bb62369741c0
 全佳,#genre#
 全佳-1,https://stream1.freetv.fun/astro-qj--wj-1.ctv
 全佳-2,https://stream1.freetv.fun/astro-qj--kt-1.ctv
@@ -48,4 +51,6 @@ Ast Badminton-4,https://stream1.freetv.fun/2203cd2a6f2d387a51d1ed454a10d8f397932
 Ast Badminton-5,https://stream1.freetv.fun/66ff28404be49d4ed095808476be1aaa4b660800d35d4b83ce1150055e919bf3.ctv
 Ast Badminton-6,https://stream1.freetv.fun/f16bd7d12f9c706553d70675670a59d0a6b8de24c7a058b8621a1361a01a152c.ctv
 
-
+8度空间,#genre#
+8度空间,p3p://167.114.175.6:55331/64bce778000d4c1f131e20196db7116d
+8度空间,p2p://167.114.175.6:55331/64bce778000d4c1f131e20196db7116d
