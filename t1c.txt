@@ -1,67 +1,40 @@
 AEC,#genre#
 AEC-1,http://99.iptv543.com/smt.php?id=AEC
-AEC-2,https://hls-gateway.vpstv.net/streams/709009.m3u8
-
-AEC-3,http://haoyunlai.serv00.net/Smartv-1.php?id=AEC
-AEC-4,https://stream1.freetv.fun/astro-aec--kt-2.ctv
-AEC-5,https://stream1.freetv.fun/c3fe97bbf2201445214a8263e55188060c41b8b61c60cba31430a6f4b33f6151.ctv
-AEC-6,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcbce79b9a7289&ct=11610650170&tsum=f0568db8709ca3d8f0f613d6bcc82d1d
-AEC-7,http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mcac9b10b6afcf&ct=11610760692&tsum=163774a7679c1cb883b5b631ececb4c7
+AEC-2,https://stream1.freetv.fun/astro-aec--r-1.m3u8
+AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 
 歡喜臺,#genre#
 歡喜臺333-1,http://99.iptv543.com/smt.php?id=Huahee
 歡喜臺333-2,https://hls-gateway.vpstv.net/streams/477796.m3u8
+歡喜臺333-3,https://stream1.freetv.fun/02ba80512ee936e077ac72e230916ea1173a99c8be6f5305eefe3dd6ddc1331e.ctv
 
-歡喜臺333-3,https://stream1.freetv.fun/129a699eedc575024526c9b333c53f2e7743c661529010528fee41a3a6b6419e.ctv
-歡喜臺333-4,https://stream1.freetv.fun/8f162a402af1d3465f27761f2b3798c1b38e5ef7c709b7494efee72d0568c048.ctv
-歡喜臺333-6,https://stream1.freetv.fun/astrohuan-xi---wj-1.ctv
-歡喜臺333-7,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052396#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052395#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052397
-歡喜臺333-8,https://stream1.freetv.fun/astrohuan-xi-tai---kt-1.ctv#https://stream1.freetv.fun/astrohuan-xi-tai---kt-2.ctv
 
 全佳,#genre#
 全佳-1,http://99.iptv543.com/smt.php?id=Quanjia
 全佳-2,https://stream1.freetv.fun/astro-qj--wj-1.ctv#https://stream1.freetv.fun/astro-qj--kt-1.ctv
 全佳-3,https://stream1.freetv.fun/25306be9a72061ac5aa46a6c0e5fd90b96d2dae8245f742a1ee7cd4e77cf0fb9.ctv
 全佳-4,https://stream1.freetv.fun/14e2b53b618a74ef9f61efb5903147209a2f4d8275f1f120c6d717f5f623bba9.ctv
-Astro QJ-1,https://hls-gateway.vpstv.net/streams/708989.m3u8
+Astro QJ-1,https://stream1.freetv.fun/307ab96ba3738a81e86be0aae60eda60ec697d0b184d5779cca4fb4d2182a99b.ctv
 Astro QJ-2,http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mcbce79b9a7289&ct=11610650170&tsum=08c8aac613ab4ff3fbf4d7f8d501ceca
 
 爱奇艺,#genre#
-爱奇艺-1,http://99.iptv543.com/smt.php?id=Qiyi
-爱奇艺-2,https://stream1.freetv.fun/ai-qi-yi---kt-1.ctv#https://stream1.freetv.fun/ai-qi-yi---kt-2.ctv
+爱奇艺-1,https://stream1.freetv.fun/c1bd85d1b088f323471326f9cc0159e08a3af79517e35111baafaa3df3665b96.ctv
+爱奇艺-2,https://stream1.freetv.fun/9781a4f7eba4d85f5d8804e89a80abc9105a8cb37615abfa4ae34ff7c8bc89fc.m3u8
 爱奇艺-3,https://stream1.freetv.fun/ai-qi-yi---wj-1.ctv
 爱奇艺-4,https://stream1.freetv.fun/a797d5c0ac9c1690c938fe3c68f04fb0ab32d65050ec4753e54e39ced8cce42a.ctv
 爱奇艺-5,https://stream1.freetv.fun/2e68b96fccdf8d34fa268c3011e3f12d379fab31ff7a4a6ad5bd6db40bcf9c48.ctv
 爱奇艺-6,https://stream1.freetv.fun/1b7afc8b00d4d5b35778033ad23a3e01c7ec1528ff4393f64d7a0cd53c9b8955.ctv
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 IQIYI-1,https://hls-gateway.vpstv.net/streams/477808.m3u8
-
-IQIYI-2,https://stream1.freetv.fun/492348c1d104480839a0c3ce36a21905db58722c131c1db48e7908068d9e0505.ctv
-IQIYI-3,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052529#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052527#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052530
 IQIYI-4,https://stream1.freetv.fun/bc83e1d5adfaf4b38501249967af8ef50b020ee7e85bb019486738ac5e360d37.m3u8
 
 华丽台,#genre#
-华丽台-1,http://99.iptv543.com/smt.php?id=Wlt
-华丽台-2,https://hls-gateway.vpstv.net/streams/477797.m3u8
-
-华丽台-3,https://stream1.freetv.fun/astrohua-li---wj-1.ctv
-华丽台-4,https://stream1.freetv.fun/astrohua-li---wj-2.ctv
-华丽台-5,https://stream1.freetv.fun/3bf3238ebcfe184f4ec5e7cdb6d8db44dcb1df591d45279c79427ee4d670b136.ctv
-华丽台-6,https://stream1.freetv.fun/6d8ec82f2012eafc0eac0da49797bfe3f3f3937753a3679f079353f9758a5277.ctv
-华丽台-7,https://stream1.freetv.fun/ebd385dcabe0cb9f9ce161e84204283f8f81aa770f47a8e312538ba9de955c1e.ctv
-华丽台-8,https://stream1.freetv.fun/dd435e4e110cb8dbf9713708d84ff287726747e7bcee5fbb0f450b948e54464d.ctv
-华丽台-9,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052636#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052637#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052638
-华丽台-10,https://stream1.freetv.fun/astrohua-li---kt-1.ctv#https://stream1.freetv.fun/astrohua-li---kt-2.ctv
+华丽台-1,https://stream1.freetv.fun/79a39b0772e0fd4d52fdcaa400e84b87eedb033d80646e735a5a82cca8772bd1.ctv
+华丽台-2,https://stream1.freetv.fun/0df92201727d9b20f30303017329776e7eadc4db4151a25e07d5ee69b17d01f6.m3u8
 
 Badminton,#genre#
-Astro Badminton LIVE,https://hls-gateway.vpstv.net/streams/477793.m3u8
-Ast Badminton-1,https://stream1.freetv.fun/astro-badminton--kt-1.ctv
-Ast Badminton-2,https://stream1.freetv.fun/astro-badminton-2--kt-1.ctv
-Ast Badminton-3,https://stream1.freetv.fun/astro-badminton--fr-1.m3u8
-Ast Badminton-4,https://stream1.freetv.fun/2203cd2a6f2d387a51d1ed454a10d8f39793221a7dba5ce12d080ba4ffe84cb8.m3u8
-Ast Badminton-5,https://stream1.freetv.fun/66ff28404be49d4ed095808476be1aaa4b660800d35d4b83ce1150055e919bf3.ctv
-Ast Badminton-6,https://stream1.freetv.fun/f16bd7d12f9c706553d70675670a59d0a6b8de24c7a058b8621a1361a01a152c.ctv
 Ast Badminton-7,http://bestp55.xyz:80/A7FC77529786/519C32219872/1170911
+
 
 八度空間,#genre#
 八度空間-1,https://hls-gateway.vpstv.net/streams/476322.m3u8
@@ -73,23 +46,8 @@ Ast Badminton-7,http://bestp55.xyz:80/A7FC77529786/519C32219872/1170911
 鳳凰中文,#genre#
 凤凰中文-1,https://hls-gateway.vpstv.net/streams/476959.m3u8
 
-鳳凰中文-2,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
-凤凰中文-3,http://220.169.100.41:10087/udp/239.76.253.134:9000
-凤凰中文-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20$订阅源
-凤凰中文-5,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$LR•IPV4『线路1』
-凤凰中文-6,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-鳳凰中文-7,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052529#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052574#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052575
-
-
 鳳凰資訊,#genre#
 鳳凰資訊-1,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052577#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052576#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052578
-鳳凰資訊-2,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-凤凰资讯-3,https://hls-gateway.vpstv.net/streams/476958.m3u8
-凤凰资讯-4,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰资讯-5,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-凤凰资讯-6,http://220.169.100.41:10087/udp/239.76.253.135:9000
-凤凰资讯-7,http://218.202.220.2:5000/nn_live.ts?id=FHZX
-凤凰资讯-8,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
 AFN,#genre#
 AFN-1,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052371#http://bestp55.xyz:80/A7FC77529786/519C32219872/957702#http://bestp55.xyz:80/A7FC77529786/519C32219872/957609
@@ -100,11 +58,3 @@ AFN-4,https://hls-gateway.vpstv.net/streams/709550.m3u8
 美食星球-2,https://hls-gateway.vpstv.net/streams/709110.m3u8
 
 旅遊,#genre#
-快乐垂钓,https://hls-gateway.vpstv.net/streams/708835.m3u8
-
-動物星球,https://hls-gateway.vpstv.net/streams/477088.m3u8
-
-EYE 旅遊,https://hls-gateway.vpstv.net/streams/476276.m3u8
-Travel Channel臺灣,https://hls-gateway.vpstv.net/streams/708936.m3u8
-亞洲旅遊,https://hls-gateway.vpstv.net/streams/476274.m3u8
-靖天國際台,http://99.iptv543.com:50007/4gtv-4gtv063/index.m3u8
