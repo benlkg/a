@@ -28,8 +28,23 @@ AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv
 翡翠台4K,http://4g.969777.xyz/https://969777.xyz/epg/smg/87088
 翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
 
-Badminton,#genre#
-Ast Badminton-7,http://bestp55.xyz:80/A7FC77529786/519C32219872/1170911
+经典台,#genre#
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh
+无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
+NOW新闻,https://cdn.163189.xyz/163189/now
+TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
+HOY77,https://cdn6.101.qzz.io/163189/hoy
+ViuTV,https://cdn.163189.xyz/163189/viu
+
+新加波,#genre#
+新加波5频道,https://cdn6.101.qzz.io/163189/ch5
+新加波8频道,https://cdn6.101.qzz.io/163189/ch8
+新加波U频道,https://cdn6.101.qzz.io/163189/ch
 
 
 八度空間,#genre#
