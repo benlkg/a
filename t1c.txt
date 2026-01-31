@@ -64,8 +64,8 @@ TV2,http://96.44.160.246:9999/smt.php?id=TV2?WithCaption
 凤凰美洲,http://4g.969777.xyz/https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 
 Music,#genre#
-Now 70's'https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
-Now 80's'https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+Now 70's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+Now 80's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 Now 90's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 Now Rock,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
