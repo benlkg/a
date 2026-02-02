@@ -2,28 +2,46 @@ AEC,#genre#
 AEC-1,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
 AEC-2,https://o11.163189.xyz/stream/live/aec/
 AEC-3,http://php.jdshipin.com/smt.php?id=AEC
-AEC-4,http://96.44.160.246:9999/smt.php?id=AEC?WithCaption
+AEC-4,http://96.44.160.246:9999/smt.php?id=AEC?WithCaptionAEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
+AEC-5,https://cdn9.163189.xyz/smt1.1.php?id=AEC
+AEC-6,https://cdn9.163189.xyz/smt3.1.1.php?id=AEC
+AEC-7,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
 AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 
 歡喜臺,#genre#
 歡喜臺333-1,http://php.jdshipin.com/smt.php?id=Huahee
 歡喜臺333-2,http://php.jdshipin.com:8880/smt.php?id=Huahee
 歡喜臺333-3,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+欢喜台-1,https://cdn9.163189.xyz/smt3.1.1.php?id=Huahee
+欢喜台-2,https://cdn9.163189.xyz/smt1.1.php?id=Huahee
+欢喜台-3,http://php.jdshipin.com:8880/smt.php?id=Huahee
+欢喜台-4,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+欢喜台-5,http://o11.163189.xyz/stream/live/hxt/
 
 全佳,#genre#
 全佳-1,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
 全佳-2,https://o11.163189.xyz/stream/live/qj/
 全佳-3,http://php.jdshipin.com:8880/smt.php?id=Quanjia@http://php.jdshipin.com/smt.php?id=Quanjia
+QJ-1,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+QJ-2,https://cdn9.163189.xyz/smt3.1.1.php?id=Quanjia
+QJ-3,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+QJ-4,https://cdn9.163189.xyz/smt1.1.php?id=Quanjia
+QJ-5,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 
 爱奇艺,#genre#
 爱奇艺-1,https://o11.163189.xyz/stream/live/iqiyi/
 爱奇艺-2,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-
+爱奇艺-3,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+爱奇艺-4,https://cdn9.163189.xyz/smt3.1.1.php?id=Qiyi
+爱奇艺-5,https://cdn9.163189.xyz/smt1.1.php?id=Qiyi
+爱奇艺-6,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 
 华丽台,#genre#
 华丽台-1,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽台-2,https://o11.163189.xyz/stream/live/hlt/
 华丽台-3,https://o11.163189.xyz/stream/live/jade/
+华丽翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
 
 翡翠台.#genre#
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
@@ -49,19 +67,20 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 新加波U频道,https://cdn6.101.qzz.io/163189/ch
 
 八度空間,#genre#
-八度空間-1,http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-八度空間-2,https://hls-gateway.vpstv.net/streams/476322.m3u8
+八度空間-1,http://php.jdshipin.com:8880/smt.php?id=TV8
+八度空間-2,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
 八度空間-3,http://php.jdshipin.com:8880/smt.php?id=TV8
-8TV,https://hls-gateway.vpstv.net/streams/476322.m3u8
+
 TV2,http://96.44.160.246:9999/smt.php?id=TV2?WithCaption
+TV2-2,https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 
 鳳凰,#genre#
 凤凰中文-1,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文-2,https://hls-gateway.vpstv.net/streams/476959.m3u8
+凤凰中文-2
 鳳凰資訊-1,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰資訊-2,https://969777.xyz/epg/yt/PhoenixTV/
+鳳凰資訊-2
 鳳凰資訊-3,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052577#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052576#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052578
-凤凰美洲,http://4g.969777.xyz/https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
+
 
 Music,#genre#
 Now 70's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
@@ -72,7 +91,7 @@ Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 
 AFN,#genre#
-AFN-1,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052371#http://bestp55.xyz:80/A7FC77529786/519C32219872/957702#http://bestp55.xyz:80/A7FC77529786/519C32219872/957609
+
 AFN-2,https://hls-gateway.vpstv.net/streams/477787.m3u8
 AFN-3,https://hls-gateway.vpstv.net/streams/709072.m3u8
 AFN-4,https://hls-gateway.vpstv.net/streams/709550.m3u8
