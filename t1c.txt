@@ -6,7 +6,9 @@ AEC-4,http://96.44.160.246:9999/smt.php?id=AEC?WithCaptionAEC,https://smt.167852
 AEC-5,https://cdn9.163189.xyz/smt1.1.php?id=AEC
 AEC-6,https://cdn9.163189.xyz/smt3.1.1.php?id=AEC
 AEC-7,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
+AEC-8,https://t.freetv.fun/live/astro-aec.m3u8
+AEC-9,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=629P4l&tk=IaRTZBNZkJti
+AEC-10(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 
 歡喜臺,#genre#
 歡喜臺333-1,http://php.jdshipin.com/smt.php?id=Huahee
@@ -17,6 +19,8 @@ AEC-15(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8#http://iptv
 欢喜台-3,http://php.jdshipin.com:8880/smt.php?id=Huahee
 欢喜台-4,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 欢喜台-5,http://o11.163189.xyz/stream/live/hxt/
+欢喜台-6,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6syHOW&tk=IaRTZBNZkJti
+
 
 全佳,#genre#
 全佳-1,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
@@ -27,6 +31,8 @@ QJ-2,https://cdn9.163189.xyz/smt3.1.1.php?id=Quanjia
 QJ-3,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 QJ-4,https://cdn9.163189.xyz/smt1.1.php?id=Quanjia
 QJ-5,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+QJ-6,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rcy05R&tk=IaRTZBNZkJti
+
 
 爱奇艺,#genre#
 爱奇艺-1,https://o11.163189.xyz/stream/live/iqiyi/
@@ -35,6 +41,8 @@ QJ-5,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 爱奇艺-4,https://cdn9.163189.xyz/smt3.1.1.php?id=Qiyi
 爱奇艺-5,https://cdn9.163189.xyz/smt1.1.php?id=Qiyi
 爱奇艺-6,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+爱奇艺-7,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yc2YvJ&tk=IaRTZBNZkJti
+
 
 华丽台,#genre#
 华丽台-1,http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -47,6 +55,8 @@ QJ-5,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,http://4g.969777.xyz/https://969777.xyz/epg/smg/87088
 翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=C8GNyX&tk=IaRTZBNZkJti
+
 
 经典台,#genre#
 Astro AOD,https://o11.163189.xyz/stream/live/aod/#http://php.jdshipin.com/TVOD/iptv.php?id=aod
@@ -70,19 +80,45 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 八度空間-1,http://php.jdshipin.com:8880/smt.php?id=TV8
 八度空間-2,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
 八度空間-3,http://php.jdshipin.com:8880/smt.php?id=TV8
+TV8-1,http://cdn6.163189.xyz/163189/8tv
+TV8-2,http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
+TV8-3,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV8-4,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=1rLKNE&tk=IaRTZBNZkJti
 
+M'sia News,#genre#
 TV2,http://96.44.160.246:9999/smt.php?id=TV2?WithCaption
 TV2-2,https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+Awani,https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+Awani-2,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+Berita RTM-2,https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+Bernama Tv,https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
 
 鳳凰,#genre#
 凤凰中文-1,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文-2
+凤凰中文-2,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=c1Ze9v&tk=IaRTZBNZkJti
 鳳凰資訊-1,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰資訊-2
+鳳凰資訊-2,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ZODaRO&tk=IaRTZBNZkJti
 鳳凰資訊-3,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052577#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052576#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052578
 
 
-Music,#genre#
+滚石30周年,#genre#
+滚石30周年1,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=O5fSpo&tk=IaRTZBNZkJti
+滚石30周年2,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=VzMFp3&tk=IaRTZBNZkJti
+滚石30周年3,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=TD4Mle&tk=IaRTZBNZkJti
+滚石30周年4,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=TAMiLX&tk=IaRTZBNZkJti
+滚石30周年5,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=zA06po&tk=IaRTZBNZkJti
+滚石30周年6,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6VOJKW&tk=IaRTZBNZkJti
+滚石30周年7,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=KATsIG&tk=IaRTZBNZkJti
+滚石30周年8,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Dy3qWw&tk=IaRTZBNZkJti
+滚石30周年9,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=uQgY81&tk=IaRTZBNZkJti
+滚石30周年10,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=V69D0e&tk=IaRTZBNZkJti
+滚石30周年11,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Y7C7iY&tk=IaRTZBNZkJti
+滚石30周年12,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=eemB9R&tk=IaRTZBNZkJti
+滚石30周年13,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Ajyq9l&tk=IaRTZBNZkJti
+
+
+Rock Music,#genre#
 Now 70's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 Now 80's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 Now 90's,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
@@ -90,8 +126,9 @@ Now Rock,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 
-AFN,#genre#
 
+
+AFN,#genre#
 AFN-2,https://hls-gateway.vpstv.net/streams/477787.m3u8
 AFN-3,https://hls-gateway.vpstv.net/streams/709072.m3u8
 AFN-4,https://hls-gateway.vpstv.net/streams/709550.m3u8
